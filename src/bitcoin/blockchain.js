@@ -1,5 +1,5 @@
-const crypto = require('crypto');
-const { Blockchain } = require('blockchain-library'); // Replace with the actual blockchain library you're using
+const bitcoin = require('bitcoin');
+const { Bitcoin } = require('bitcoin-js'); 
 
 class DLC {
   constructor(blockchain) {

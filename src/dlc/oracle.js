@@ -1,4 +1,4 @@
-const crypto = require('crypto');
+const bitcoin = require('bitcoin-js');
 
 class DLC {
   constructor() {

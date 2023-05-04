@@ -1,3 +1,10 @@
-const lnd = lnd ('@synonymdev/ldk-node-js);
-const P2TR = P2TR
+const lnd = lnd ('@ldk-node-js);
+
+
+
+const OpenChanel
+
+const CloseChannel
+
+
                  

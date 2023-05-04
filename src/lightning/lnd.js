@@ -1,10 +1,5 @@
-const lnd = lnd ('@ldk-node-js);
+import { ChainMonitor, Option_FilterZ } from "lnd-node-js";
 
-
-
-const OpenChanel
-
-const CloseChannel
 
 
                  

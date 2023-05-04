@@ -22,6 +22,6 @@ The implementation is mainly based on the [DLC specifications](https://github.co
 - [ ] DLCs events
 - [ ] Core functions
 
-# License
+## License
 
 The code is under MIT lincense

@@ -20,6 +20,7 @@ The implementation is mainly based on the [DLC specifications](https://github.co
 - [ ] Taproot implementation
 - [ ] LND integration
 - [ ] DLCs events
+- [ ] Nostr integration
 - [ ] Core functions
 
 ## License

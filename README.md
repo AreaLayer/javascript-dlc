@@ -34,4 +34,4 @@ The implementation is mainly based on the [DLC specifications](https://github.co
 
 ## License
 
-The code is under MIT lincense
+MIT

@@ -6,6 +6,13 @@ Contributions are welcome.
 
 ## Standard Compliance
 
+- Lightning Network (LND)
+
+- DLCs with core functions
+
+- Nostr with relays and events
+
+- Taproot 
 
 ## Warning
 

@@ -6,7 +6,7 @@ Contributions are welcome.
 
 ## Standard Compliance
 
-- Lightning Network (LND)
+- Lightning Network (LND/LDK)
 
 - DLCs with core functions
 
@@ -27,7 +27,7 @@ The implementation is mainly based on the [DLC specifications](https://github.co
 
 - [ ] Open source code
 - [ ] Taproot implementation
-- [ ] LND integration
+- [ ] LND/LDK integration
 - [ ] DLCs events
 - [ ] Nostr integration
 - [ ] Core functions

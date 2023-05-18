@@ -1,4 +1,5 @@
 const bitcoin = require('bitcoin-js');
+const ldk = require('ldk-garbagecollected');
 
 class DLC {
   constructor() {

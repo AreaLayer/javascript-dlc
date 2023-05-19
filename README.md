@@ -32,6 +32,10 @@ The implementation is mainly based on the [DLC specifications](https://github.co
 - [x] Nostr integration
 - [x] Core functions
 
+# Contribution
+
+[Checkout here](https://github.com/AreaLayer/javascript-dlc/blob/main/CONTRIBUTING.md)
+
 ## License
 
 MIT

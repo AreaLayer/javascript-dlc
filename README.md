@@ -28,9 +28,9 @@ The implementation is mainly based on the [DLC specifications](https://github.co
 - [ ] Open source code
 - [ ] Taproot implementation
 - [x] LND/LDK integration
-- [ ] DLCs events
+- [x] DLCs events
 - [ ] Nostr integration
-- [ ] Core functions
+- [x] Core functions
 
 ## License
 

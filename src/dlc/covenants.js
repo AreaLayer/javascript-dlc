@@ -1,5 +1,5 @@
 // Install BDK and LDK using npm or yarn
-const { ElectrumNetwork, Wallet, TxBuilder, Psbt } = require('bdk');
+const { ElectrumNetwork, Wallet, Psbt } = require('bdk');
 const { ChannelManager, PaymentStatus, Invoice } = require('ldk');
 
 // Set up BDK wallet
@@ -8,20 +8,6 @@ const wallet = new Wallet('testnet', 'path/to/wallet.dat');
 // Connect to Electrum server
 const network = ElectrumNetwork.fromBitcoinAPI('https://electrum.example.com');
 wallet.addElectrumServer(network);
-
-// Generate a funding transaction
-async function createFundingTransaction() {
-  const address = await wallet.getNewAddress();
-  const value = 100000; // Amount in satoshis
-
-  const builder = wallet.createTxBuilder();
-  builder.addRecipients([{ address, value }]);
-
-  const psbt = await wallet.build(builder);
-  const signedPsbt = await wallet.sign(psbt);
-
-  return signedPsbt.extractTransaction().toHex();
-}
 
 // Set up LDK channel manager
 const channelManager = new ChannelManager('path/to/channel_manager.dat');
@@ -47,16 +33,51 @@ async function createInvoice(amount) {
   }
 }
 
+// Create and sign a funding transaction
+async function createFundingTransaction(address, value) {
+  const builder = wallet.createTxBuilder();
+  builder.addRecipients([{ address, value }]);
+
+  const psbt = await wallet.build(builder);
+  const signedPsbt = await wallet.sign(psbt);
+
+  return signedPsbt.extractTransaction().toHex();
+}
+
+// Create and sign the settlement transaction
+async function createSettlementTransaction() {
+  const builder = wallet.createTxBuilder();
+
+  // Add covenant conditions in Bitcoin Script
+  const covenantScript = 'OP_IF OP_TRUE OP_ELSE OP_FALSE OP_ENDIF';
+  builder.addOutput(0, Buffer.from(covenantScript, 'hex'));
+
+  // Add other outputs, inputs, and fees as needed
+  // ...
+
+  const psbt = await wallet.build(builder);
+  const signedPsbt = await wallet.sign(psbt);
+
+  return signedPsbt.extractTransaction().toHex();
+}
+
 // Run the DLC
 async function runDLC() {
-  const fundingTxHex = await createFundingTransaction();
+  const fundingAddress = await wallet.getNewAddress();
+  const fundingValue = 100000; // Amount in satoshis
+
+  const settlementAddress = await wallet.getNewAddress();
+  const settlementValue = 50000; // Amount in satoshis
+
+  const fundingTxHex = await createFundingTransaction(fundingAddress, fundingValue);
+  const settlementTxHex = await createSettlementTransaction(settlementAddress, settlementValue);
+
   await connectToNode();
-  await createInvoice(50000); // Specify the amount for the DLC
+  await createInvoice(settlementValue);
 
   // ... Rest of the DLC logic goes here ...
 
-  // Sign and broadcast settlement transaction
-  const settlementTxHex = '...'; // Replace with the settlement transaction hex
+  // Broadcast the settlement transaction
   const psbt = Psbt.fromHex(settlementTxHex);
   const signedPsbt = await wallet.sign(psbt);
   await wallet.broadcast(signedPsbt.extractTransaction().toHex());
@@ -64,4 +85,5 @@ async function runDLC() {
 
 // Start the DLC
 runDLC().catch(console.error);
+
 

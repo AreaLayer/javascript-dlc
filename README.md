@@ -23,6 +23,12 @@ This library is still in early stage and beta
 
 The implementation is mainly based on the [DLC specifications](https://github.com/discreetlogcontracts/dlcspecs) but is not yet fully compliant with it
 
+## Run Javascript DLC
+
+Disclaimer: Note this library isn't full tested. Use your own at risk
+
+[Documentaion](https://github.com/AreaLayer/javascript-dlc/blob/main/docs/run.md)
+
 ## Roadmap
 
 - [ ] Open source code

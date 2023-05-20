@@ -6,7 +6,7 @@ Contributions are welcome.
 
 ## Standard Compliance
 
-- Lightning Network (LND/LDK/CLN)
+- Lightning Network (LND/LDK/CLN/Eclair)
 
 - DLCs with core functions
 
@@ -33,7 +33,7 @@ Disclaimer: Note this library isn't full tested. Use your own at risk
 
 - [ ] Open source code
 - [x] Taproot implementation
-- [x] LND/LDK/CLN integration
+- [x] LND/LDK/CLN/Eclair integration
 - [x] DLCs events
 - [x] Nostr integration
 - [x] Core functions

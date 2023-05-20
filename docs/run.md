@@ -11,3 +11,7 @@ Note that you need to have a running LND node with gRPC enabled and the correct 
 # LDK 
 
 Please make sure to replace the placeholders 'YOUR_PROVIDER_URL', 'YOUR_CONTRACT_ADDRESS', 'YOUR_PRIVATE_KEY', and 'YOUR_ADDRESS' with the actual values relevant to your setup. Additionally, ensure that you have the required dependencies (bitcoin-js and ldk-node-js) installed for the code to work properly.
+
+# Core Lightning 
+
+Make sure you have the core-lightning package installed in your project (npm install core-lightning). Replace the placeholder 'YOUR_LIGHTNING_DIRECTORY' with the path to your Core Lightning data directory.

@@ -13,5 +13,5 @@ Host=xxx
 Post=xxx
 TLS.cert=xxx
 GRPC=xxx
-Contrac_info=xxx
+Contract_info=xxx
 Input_blinding_key=xxx

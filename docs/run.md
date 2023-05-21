@@ -6,8 +6,9 @@ Run the DLC in your lightning node
 
 npm install javascript-dlc
 
+# Change ENV 
 
-# After change .env and lightning file accordingly with your lightning implementation (e.g. LND, CLN, LDK,etc)
+After change .env and lightning file accordingly with your lightning implementation (e.g. LND, CLN, LDK,etc)
 ```
 Host=xxx
 Post=xxx

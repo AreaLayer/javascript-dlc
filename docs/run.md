@@ -14,6 +14,8 @@ Contrac_infot=xxx
 Input_blinding_key=xxx
 
 
+# Lightning implemenations support
+
 # LND 
 
 Make sure you have the lnrpc and grpc packages installed in your project (npm install lnrpc grpc). Replace the placeholders 'YOUR_LND_HOST', 'PATH_TO_TLS_CERT_FILE', 'YOUR_CONTRACT_INFO', and 'YOUR_INPUT_BLINDING_KEY' with the appropriate values for your environment.

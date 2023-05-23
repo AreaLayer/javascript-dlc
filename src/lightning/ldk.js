@@ -3,6 +3,7 @@ const ldk = require('ldk-node-js');
 const providerUrl = 'YOUR_PROVIDER_URL';
 const provider = new bitcoin(providerUrl);
 const ldkProvider = new ldk(providerUrl);
+const network = bitcoin.networks.testnet;
 
 class DLCContract {
   constructor(address, api, provider) {

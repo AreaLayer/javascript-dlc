@@ -1,5 +1,6 @@
 const { lnrpc } = require('lnrpc');
 const grpc = require('grpc');
+const NETWORK = bitcoin.networks.testnet;
 
 async function generateContractId(lndClient, contractInfo) {
   const response = await lndClient.discreetDial.generateContractId({ contractInfo });

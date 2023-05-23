@@ -1,4 +1,5 @@
 const { spawnSync } = require('child_process');
+const network = bitcoin.networks.testnet;
 
 function runLdkCommand(args) {
   const ldkProcess = spawnSync('ldk', args);

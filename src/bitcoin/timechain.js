@@ -1,6 +1,8 @@
 const bitcoin = require('bitcoin');
 const { Bitcoin } = require('bitcoin-js'); 
 
+const NETWORK = bitcoin.networks.testnet;
+
 class DLC {
   constructor(blockchain) {
     this.oraclePrivateKey = null;

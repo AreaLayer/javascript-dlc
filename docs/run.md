@@ -11,15 +11,17 @@ Run the DLC in your lightning node
 ## Copy/paste repository
 
 Git the repository for use in your local machine
-```
+
 git clone https://github.com/AreaLayer/javascript-dlc.git
+
 
 ## Install via npm
 
 You need have already installed npm
 
-```
 npm install javascript-dlc
+
+
 
 ## Change ENV 
 

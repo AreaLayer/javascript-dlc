@@ -3,8 +3,9 @@
 Run the DLC in your lightning node
 
 ## Git clone repository and install via npm
-
+`
 npm install javascript-dlc
+
 
 ## Change ENV 
 

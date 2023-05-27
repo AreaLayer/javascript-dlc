@@ -7,22 +7,22 @@ If you are accepting these terms on behalf of an entity, you confirm that you ar
 
 BITCOIN SERVICES ARE NOT READY FOR GENERAL COMMERCIAL RELEASE AND MAY CONTAIN BUGS, ERRORS, DEFECTS, OR HARMFUL COMPONENTS. ACCORDINGLY, AREA LAYER, INC. (“AREA LAYER”) IS PROVIDING BITCOIN SERVICES TO YOU “AS IS.”
 
-BITCOIN SERVICES ARE INTENDED TO BE USED ON THE BITCOIN TESTNET OR BITCOIN REGTEST ONLY AND IS NOT INTENDED TO BE USED ON THE BITCOIN MAINNET. USING THE SERVICES ON THE BITCOIN MAINNET MAY RESULT IN THE LOSS OF YOUR FUNDS, AND CRYPTO GARAGE SHALL NOT BE RESPONSIBLE FOR ANY RESULT ARISING OUT OF SUCH UNINTENDED USE OF THE SERVICES.
+BITCOIN SERVICES ARE INTENDED TO BE USED ON THE BITCOIN TESTNET OR BITCOIN REGTEST ONLY AND IS NOT INTENDED TO BE USED ON THE BITCOIN MAINNET. USING THE SERVICES ON THE BITCOIN MAINNET MAY RESULT IN THE LOSS OF YOUR FUNDS, AND AREA LAYER SHALL NOT BE RESPONSIBLE FOR ANY RESULT ARISING OUT OF SUCH UNINTENDED USE OF THE SERVICES.
 
-CRYPTO GARAGE MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE REGARDING BITCOIN SERVICES THAT THEY WILL
+AREA LAYER MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE REGARDING BITCOIN SERVICES THAT THEY WILL
 (i) BECOME GENERALLY AVAILABLE;
 (ii) BE UNINTERRUPTED;
 (iii) ERROR FREE, OR FREE OF HARMFUL COMPONENTS, OR;
-(iv) THAT ANY CONTENT, INCLUDING YOUR CONTENTS (FINANCIAL CONTRACT RELATED DATA AND/OR CONDITIONS UPLOADED TO P2P DERIVATIVE SERVICES) , WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED.
-EXCEPT TO THE EXTENT PROHIBITED BY LAW, CRYPTO GARAGE DISCLAIM ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF TRADE.
+(iv) THAT ANY CONTENT, INCLUDING YOUR CONTENTS (FINANCIAL CONTRACT RELATED DATA AND/OR CONDITIONS UPLOADED TO BITCOIN SERVICES) , WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED.
+EXCEPT TO THE EXTENT PROHIBITED BY LAW, AREA LAYER DISCLAIM ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF TRADE.
 
 ## 1. GENERAL PROVISIONS
 
 ### 1.1 SCOPE
 
-This binding Agreement is between Crypto Garage and the person, persons, or entity (“You” or “Your”) using the Services.
+This binding Agreement is between Area Layer and the person, persons, or entity (“You” or “Your”) using the Services.
 
-These Terms apply to our P2P Derivative Services (a rich client application developed and provided by Crypto Garage which allows parties to create, broadcast, and redeem monetary contracts on the Bitcoin Blockchain, using an Oracle (a server outside the blockchain developed by Crypto Garage which provides information to setup a contract between parties, and on maturity publishes the signature data for the contract by referencing market prices), and any of our other services, including but not limited to, the Pricer (a supplementary Google Sheets tool that assists in the pricing of P2P derivatives contracts) related to or utilizing any of the foregoing, which we refer to in these Terms and Conditions documents (“Terms” or “Terms of Use”), collectively, as our “Services”).
+These Terms apply to our Bitcoin Services (a rich client application developed and provided by Crypto Garage which allows parties to create, broadcast, and redeem monetary contracts on the Bitcoin Blockchain, using an Oracle (a server outside the blockchain developed by Crypto Garage which provides information to setup a contract between parties, and on maturity publishes the signature data for the contract by referencing market prices), and any of our other services, including but not limited to, the Pricer (a supplementary Google Sheets tool that assists in the pricing of P2P derivatives contracts) related to or utilizing any of the foregoing, which we refer to in these Terms and Conditions documents (“Terms” or “Terms of Use”), collectively, as our “Services”).
 
 ### 1.2 ELIGIBILITY AND AGREEMENT
 

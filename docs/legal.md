@@ -22,7 +22,7 @@ EXCEPT TO THE EXTENT PROHIBITED BY LAW, AREA LAYER DISCLAIM ALL WARRANTIES, INCL
 
 This binding Agreement is between Area Layer and the person, persons, or entity (“You” or “Your”) using the Services.
 
-These Terms apply to our Bitcoin Services (a rich client application developed and provided by Crypto Garage which allows parties to create, broadcast, and redeem monetary contracts on the Bitcoin Blockchain, using an Oracle (a server outside the blockchain developed by Crypto Garage which provides information to setup a contract between parties, and on maturity publishes the signature data for the contract by referencing market prices), and any of our other services, including but not limited to, the Pricer (a supplementary Google Sheets tool that assists in the pricing of P2P derivatives contracts) related to or utilizing any of the foregoing, which we refer to in these Terms and Conditions documents (“Terms” or “Terms of Use”), collectively, as our “Services”).
+These Terms apply to our Bitcoin Services (a rich client application developed and provided by Area Layer which allows parties to create, broadcast, and redeem monetary contracts on the Bitcoin Blockchain, using an Oracle (a server outside the blockchain developed by Area Layer which provides information to setup a contract between parties, and on maturity publishes the signature data for the contract by referencing market prices), and any of our other services, including but not limited to, the Pricer (a supplementary Google Sheets tool that assists in the pricing of Area Layer contracts) related to or utilizing any of the foregoing, which we refer to in these Terms and Conditions documents (“Terms” or “Terms of Use”), collectively, as our “Services”).
 
 ### 1.2 ELIGIBILITY AND AGREEMENT
 
@@ -38,17 +38,16 @@ With our Services, You and only You may access and transact with the Account ID 
 
 You are responsible for properly configuring and using the Service and otherwise taking appropriate action to secure, protect and backup Your Account and Your Contents in a manner that will provide appropriate security and protection, which might include use of encryption to protect Your Content from unauthorized access and routinely archiving Your Contents.
 
-CRYPTO GARAGE EXPRESSLY DECLARES THAT IT DOES NOT STORE, HAVE ACCESS TO, OR HAVE ANY WAY OR MEANS OF RECOVERING YOUR BACKUP.
+AREA LAYER EXPRESSLY DECLARES THAT IT DOES NOT STORE, HAVE ACCESS TO, OR HAVE ANY WAY OR MEANS OF RECOVERING YOUR BACKUP.
 
 ### 1.4 DATA PRIVACY
 
-(1) By using the Services, You shall be deemed to have agreed to the storage of Your Contents in Japan
-(2) Crypto Garage will not access or use Your Contents except as necessary to maintain or provide the Services, or as necessary to comply with the law or a binding order of a governmental body.
-(3) Crypto Garage will not disclose Your Contents to any government or third party except in each case as necessary to comply with the Laws and Regulations (as defined below) or a binding order of a governmental body or any other equivalent self-regulatory body.
+(1) Area Layer will not access or use Your Contents except as necessary to maintain or provide the Services, or as necessary to comply with the law or a binding order of a governmental body.
+(2) Area Layer will not disclose Your Contents to any government or third party except in each case as necessary to comply with the Laws and Regulations (as defined below) or a binding order of a governmental body or any other equivalent self-regulatory body.
 
 ### 1.5 CHANGES TO THESE TERMS
 
-Crypto Garage may add or modify terms related to access to or use of any Services at any time. If You do not agree to any amended Terms, You must discontinue using our Services.
+Area Layer may add or modify terms related to access to or use of any Services at any time. If You do not agree to any amended Terms, You must discontinue using our Services.
 
 ## 2. PROHIBITED ACTIVITIES
 

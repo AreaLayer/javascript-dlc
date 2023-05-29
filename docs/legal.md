@@ -55,15 +55,15 @@ You agree that You will not use the Services for commercial use or to perform an
 Use of the Services in a manner contrary to local law is generally prohibited.
 
 The prohibition of this paragraph includes, but is not limited to, the following prohibited activities:
-(i) act that hinders the smooth operation of the Services by Crypto Garage;
+(i) act that hinders the smooth operation of the Services by Area Layer;
 (ii) act of infringing (including act to cause such infringement directly or indirectly) Intellectual Property Rights (copyrights, patent rights, utility model rights, trademark rights, design rights and any other intellectual property rights), portrait rights, privacy, reputation, credibility or other rights or interests of Crypto Garage or other third parties;
 (iii) acts relating to money laundering or other similar acts;
 (iv) acts in relation to criminal acts, or against public morals and order;
-(v) violations of Laws and Regulations (conventions, laws, cabinet orders, ministerial orders, regulations, notices, municipal ordinances, judgments, decisions, arbitration awards, decrees, administrative guidance, supervisory guidelines, and guidelines of related countries applicable to the Services, Crypto Garage and users, as well as written guidance, recommendations or similar notices by related authorities targeting Crypto Garage or users, and regulations and rules of self-regulatory bodies);
+(v) violations of Laws and Regulations (conventions, laws, cabinet orders, ministerial orders, regulations, notices, municipal ordinances, judgments, decisions, arbitration awards, decrees, administrative guidance, supervisory guidelines, and guidelines of related countries applicable to the Services, Area Layer and users, as well as written guidance, recommendations or similar notices by related authorities targeting Crypto Garage or users, and regulations and rules of self-regulatory bodies);
 (vi) transmission of information that includes computer viruses and other harmful computer programs;
 (vii) falsification of information that can be used for the Services;
-(viii) transmission of data of a size greater than a certain threshold designated by Crypto Garage via the Services;
-(x) acts that may interfere in the operation of the Services by Crypto Garage;
+(viii) transmission of data of a size greater than a certain threshold designated by Area Layer via the Services;
+(x) acts that may interfere in the operation of the Services by Area Layer;
 (xi) acts for the purpose of providing benefits to Anti-Social Forces (an organized crime group, organized crime group member, a person who formerly was an organized crime group member within the last five years, associate member of an organized crime group, company related to an organized crime group, corporate racketeer (sokaiya) group engaging in criminal activities under the pretext of conducting social campaigns or a crime group specializing in intellectual crimes, or parties judged to be similar to the above);
 (xii) acts that will cause directly or indirectly, or facilitate commission of the acts set forth in the preceding Items;
 (xiii) violation of this Terms; or
@@ -72,13 +72,13 @@ The prohibition of this paragraph includes, but is not limited to, the following
 ## 3. INDEMNIFICATION
 
 You will defend, indemnify, and hold harmless Crypto Garage, its affiliates and licensors, and each of their respective employees, officers, directors, and representatives from and against any losses arising out of or relating to any third-party claim concerning breach of the Agreement or violation of applicable law by You, or Your Contents.
-You will reimburse Crypto Garage for reasonable attorneys’ fees, as well as Crypto Garage's employees’ and contractors’ time and materials spent responding to any third party subpoena or other compulsory legal order or process associated with third party claims described above at the Crypto Garage's then-current hourly rates.
+You will reimburse Area Layer for reasonable attorneys’ fees, as well as Crypto Garage's employees’ and contractors’ time and materials spent responding to any third party subpoena or other compulsory legal order or process associated with third party claims described above at the Area Layer's then-current hourly rates.
 
 ## 4. OWNERSHIP OF INTELLECTUAL PROPERTY RIGHTS
 
-Crypto Garage’s trademarks, service marks, designs, logos and trade names that are displayed on our Services are referred to in these Terms collectively as the “Materials”. Crypto Garage hereby grants You a limited, non-exclusive, revocable, non-transferable and non-sublicensable license to access and use the Materials for Your use of the Services solely in accordance with these Terms. This license is not intended to be broadly construed, and Crypto Garage reserves all rights not expressly granted herein
+Area Layer’s trademarks, service marks, designs, logos and trade names that are displayed on our Services are referred to in these Terms collectively as the “Materials”. Crypto Garage hereby grants You a limited, non-exclusive, revocable, non-transferable and non-sublicensable license to access and use the Materials for Your use of the Services solely in accordance with these Terms. This license is not intended to be broadly construed, and Area Layer reserves all rights not expressly granted herein
 
-You may provide Crypto Garage with information relating to Your access, use, testing, or evaluation of the Services, including observations or information regarding the performance, features, and functionality of the Services (“Test Observations”). Any feedback (or similar content/document, feature suggestion) You submit is non-confidential and will become the sole property of Crypto Garage. Crypto Garage will be entitled to the unrestricted use and dissemination of such feedback for any purpose, commercial or otherwise, without acknowledgment or compensation to You. You may not use any Test Observations except for Your own evaluation purposes of any service related to the Services.
+You may provide Crypto Garage with information relating to Your access, use, testing, or evaluation of the Services, including observations or information regarding the performance, features, and functionality of the Services (“Test Observations”). Any feedback (or similar content/document, feature suggestion) You submit is non-confidential and will become the sole property of Area Layer. Area Layerwill be entitled to the unrestricted use and dissemination of such feedback for any purpose, commercial or otherwise, without acknowledgment or compensation to You. You may not use any Test Observations except for Your own evaluation purposes of any service related to the Services.
 
 Test Observations, suggestions concerning the Services, and any other information about or involving (including the existence of) any Test Observations and feedback are included in the Crypto Garage’s Confidential Information.
 

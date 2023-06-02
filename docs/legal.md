@@ -34,7 +34,7 @@ It is Your own responsibility to ensure that the use of the Service complies wit
 
 ### 1.3 RESPONSIBILITY FOR OTHER AUTHENTICATION MEANS
 
-With our Services, You and only You may access and transact with the Account ID and password You set. You are responsible for all activities that occur under Your Account ID, regardless of whether the activities are authorized by You or undertaken by You, Your employees or a third party (including Your contractors and agents), and Crypto Garage is not responsible for unauthorized access to Your Account ID.
+With our Services, You and only You may access and transact with the Account ID and password You set. You are responsible for all activities that occur under Your Account ID, regardless of whether the activities are authorized by You or undertaken by You, Your employees or a third party (including Your contractors and agents), and CArea Layer is not responsible for unauthorized access to Your Account ID.
 
 You are responsible for properly configuring and using the Service and otherwise taking appropriate action to secure, protect and backup Your Account and Your Contents in a manner that will provide appropriate security and protection, which might include use of encryption to protect Your Content from unauthorized access and routinely archiving Your Contents.
 
@@ -56,7 +56,7 @@ Use of the Services in a manner contrary to local law is generally prohibited.
 
 The prohibition of this paragraph includes, but is not limited to, the following prohibited activities:
 (i) act that hinders the smooth operation of the Services by Area Layer;
-(ii) act of infringing (including act to cause such infringement directly or indirectly) Intellectual Property Rights (copyrights, patent rights, utility model rights, trademark rights, design rights and any other intellectual property rights), portrait rights, privacy, reputation, credibility or other rights or interests of Crypto Garage or other third parties;
+(ii) act of infringing (including act to cause such infringement directly or indirectly) Intellectual Property Rights (copyrights, patent rights, utility model rights, trademark rights, design rights and any other intellectual property rights), portrait rights, privacy, reputation, credibility or other rights or interests of Area Layer or other third parties;
 (iii) acts relating to money laundering or other similar acts;
 (iv) acts in relation to criminal acts, or against public morals and order;
 (v) violations of Laws and Regulations (conventions, laws, cabinet orders, ministerial orders, regulations, notices, municipal ordinances, judgments, decisions, arbitration awards, decrees, administrative guidance, supervisory guidelines, and guidelines of related countries applicable to the Services, Area Layer and users, as well as written guidance, recommendations or similar notices by related authorities targeting Crypto Garage or users, and regulations and rules of self-regulatory bodies);
@@ -67,18 +67,18 @@ The prohibition of this paragraph includes, but is not limited to, the following
 (xi) acts for the purpose of providing benefits to Anti-Social Forces (an organized crime group, organized crime group member, a person who formerly was an organized crime group member within the last five years, associate member of an organized crime group, company related to an organized crime group, corporate racketeer (sokaiya) group engaging in criminal activities under the pretext of conducting social campaigns or a crime group specializing in intellectual crimes, or parties judged to be similar to the above);
 (xii) acts that will cause directly or indirectly, or facilitate commission of the acts set forth in the preceding Items;
 (xiii) violation of this Terms; or
-(xiv) any other act judged inappropriate by Crypto Garage, in addition to the above Items.
+(xiv) any other act judged inappropriate by Area Layer, in addition to the above Items.
 
 ## 3. INDEMNIFICATION
 
 You will defend, indemnify, and hold harmless Crypto Garage, its affiliates and licensors, and each of their respective employees, officers, directors, and representatives from and against any losses arising out of or relating to any third-party claim concerning breach of the Agreement or violation of applicable law by You, or Your Contents.
-You will reimburse Area Layer for reasonable attorneys’ fees, as well as Crypto Garage's employees’ and contractors’ time and materials spent responding to any third party subpoena or other compulsory legal order or process associated with third party claims described above at the Area Layer's then-current hourly rates.
+You will reimburse Area Layer for reasonable attorneys’ fees, as well as Area Layer's employees’ and contractors’ time and materials spent responding to any third party subpoena or other compulsory legal order or process associated with third party claims described above at the Area Layer's then-current hourly rates.
 
 ## 4. OWNERSHIP OF INTELLECTUAL PROPERTY RIGHTS
 
-Area Layer’s trademarks, service marks, designs, logos and trade names that are displayed on our Services are referred to in these Terms collectively as the “Materials”. Crypto Garage hereby grants You a limited, non-exclusive, revocable, non-transferable and non-sublicensable license to access and use the Materials for Your use of the Services solely in accordance with these Terms. This license is not intended to be broadly construed, and Area Layer reserves all rights not expressly granted herein
+Area Layer’s trademarks, service marks, designs, logos and trade names that are displayed on our Services are referred to in these Terms collectively as the “Materials”. Are Layer hereby grants You a limited, non-exclusive, revocable, non-transferable and non-sublicensable license to access and use the Materials for Your use of the Services solely in accordance with these Terms. This license is not intended to be broadly construed, and Area Layer reserves all rights not expressly granted herein
 
-You may provide Crypto Garage with information relating to Your access, use, testing, or evaluation of the Services, including observations or information regarding the performance, features, and functionality of the Services (“Test Observations”). Any feedback (or similar content/document, feature suggestion) You submit is non-confidential and will become the sole property of Area Layer. Area Layerwill be entitled to the unrestricted use and dissemination of such feedback for any purpose, commercial or otherwise, without acknowledgment or compensation to You. You may not use any Test Observations except for Your own evaluation purposes of any service related to the Services.
+You may provide Area Layer with information relating to Your access, use, testing, or evaluation of the Services, including observations or information regarding the performance, features, and functionality of the Services (“Test Observations”). Any feedback (or similar content/document, feature suggestion) You submit is non-confidential and will become the sole property of Area Layer. Area Layer will be entitled to the unrestricted use and dissemination of such feedback for any purpose, commercial or otherwise, without acknowledgment or compensation to You. You may not use any Test Observations except for Your own evaluation purposes of any service related to the Services.
 
 Test Observations, suggestions concerning the Services, and any other information about or involving (including the existence of) any Test Observations and feedback are included in the Crypto Garage’s Confidential Information.
 
@@ -92,9 +92,9 @@ The warranty issues covered by the MIT license are addressed in the first paragr
 
 ## 5. DISCLAIMER OF WARRANTIES
 
-Crypto Garage may suspend or terminate Your access to or use of any Services at any time. Your access or use of the Services will automatically terminate upon the release of a generally available version of the applicable or upon notice of termination by Crypto Garage. After the suspension or termination of Your access or use of the Services for any reason, (a) You will not have any further right to access or use the Services, and (b) Your Contents used in the Services may be deleted or become inaccessible.
+Area Layer may suspend or terminate Your access to or use of any Services at any time. Your access or use of the Services will automatically terminate upon the release of a generally available version of the applicable or upon notice of termination by Crypto Garage. After the suspension or termination of Your access or use of the Services for any reason, (a) You will not have any further right to access or use the Services, and (b) Your Contents used in the Services may be deleted or become inaccessible.
 
-Crypto Garage is not a regulated or a licensed financial institution, and is not required to hold any payment processing, custodial, advisory, or other digital asset related license, registration, permit, or authorization. You acknowledge that using digital assets and blockchain-based solutions, networks and protocols may involve serious risks. Further, the Pricer is a tool to help You calculate the option premiums and generate the outputs needed for uploading financial contract related data to the Services. However, the Services, including but not limited to the Pricer, do not and are not intended to constitute investment/tax advice or an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. We strongly recommend that You take financial and professional advice before making any financial decisions.
+Area Layer is not a regulated or a licensed financial institution, and is not required to hold any payment processing, custodial, advisory, or other digital asset related license, registration, permit, or authorization. You acknowledge that using digital assets and blockchain-based solutions, networks and protocols may involve serious risks. Further, the Pricer is a tool to help You calculate the option premiums and generate the outputs needed for uploading financial contract related data to the Services. However, the Services, including but not limited to the Pricer, do not and are not intended to constitute investment/tax advice or an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. We strongly recommend that You take financial and professional advice before making any financial decisions.
 
 ## 6. LIMITATION OF LIABILITY
 

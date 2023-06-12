@@ -33,15 +33,6 @@ Disclaimer: Note this library isn't full tested. Use your own at risk
 
 [More details here](https://github.com/AreaLayer/NIP-xxx)
 
-## Roadmap
-
-- [ ] Open source code
-- [x] Taproot implementation
-- [x] LND/LDK/CLN/Eclair integration
-- [x] DLCs events
-- [x] Nostr integration
-- [x] Core functions
-
 # Contribution
 
 [Checkout here](https://github.com/AreaLayer/javascript-dlc/blob/main/CONTRIBUTING.md)

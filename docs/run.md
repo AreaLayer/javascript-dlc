@@ -2,7 +2,7 @@
 
 Run the DLC in your lightning node
 
-## Pre Requisite
+### Pre Requisite
 
 - Lightning Node
 - NPM

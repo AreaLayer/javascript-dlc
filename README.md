@@ -40,3 +40,8 @@ Disclaimer: Note this library isn't full tested. Use your own at risk
 ## License
 
 MIT
+
+## Roadmap
+
+- [ ] Mainnet
+- [ ] Compatible with Tapproot Channels

@@ -46,4 +46,4 @@ MIT
 ## Roadmap
 
 - [ ] Mainnet
-- [ ] Compatible with Tapproot Channels
+- [ ] Compatible with Taproot Channels

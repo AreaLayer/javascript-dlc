@@ -2,7 +2,9 @@
 
 A Javascript library for working with [Discreet Log Contracts](https://adiabat.github.io/dlc.pdf).
 
-Contributions are welcome.
+Contributions are welcome
+
+**Disclaimer: Beta Software**
 
 ## Standard Compliance
 

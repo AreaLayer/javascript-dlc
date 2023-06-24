@@ -16,11 +16,6 @@ Contributions are welcome
 
 - Taproot 
 
-## Warning
-
-This library is still in early stage and beta
-
-
 ## Status
 
 The implementation is mainly based on the [DLC specifications](https://github.com/discreetlogcontracts/dlcspecs) but is not yet fully compliant with it
@@ -35,11 +30,11 @@ Disclaimer: Note this library isn't full tested. Use your own at risk
 
 [More details here](https://github.com/AreaLayer/NIP-xxx)
 
-# Contribution
+### Contribution
 
 [Checkout here](https://github.com/AreaLayer/javascript-dlc/blob/main/CONTRIBUTING.md)
 
-## License
+### License
 
 MIT
 

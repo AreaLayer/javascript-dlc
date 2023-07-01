@@ -4,7 +4,7 @@ Run the DLC in your lightning node
 
 ### Pre Requisite
 
-- Lightning Node
+- Lightning Node (Unannounced integration)
 - NPM
 - Git
 

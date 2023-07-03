@@ -41,4 +41,6 @@ MIT
 ## Roadmap
 
 - [ ] Mainnet
+- [ ] Integration with CLN
+    
 - [ ] Compatible with Taproot Channels via LND

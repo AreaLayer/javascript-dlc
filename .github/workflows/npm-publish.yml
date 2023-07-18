@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: npm javascript-dlc
+      - run: npm run
       - run: npm test
 
   publish-npm:

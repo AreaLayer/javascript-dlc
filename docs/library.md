@@ -15,4 +15,3 @@ You can use Events or data using `const DLC` for build your applications using D
 ```javascript
 
 const DLC('data')
-`´`

@@ -16,3 +16,5 @@ You can use Events or data using `const DLC` for build your applications using D
 
 const DLC = require('data');
 const DLC = require('DLC-js');
+
+function Oracle 

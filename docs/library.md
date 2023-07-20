@@ -14,4 +14,5 @@ You can use Events or data using `const DLC` for build your applications using D
 
 ```javascript
 
-const DLC('data')
+const DLC = require('data');
+const DLC = require('DLC-js');

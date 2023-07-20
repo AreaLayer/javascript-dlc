@@ -28,6 +28,12 @@ Disclaimer: Note this library isn't full tested. Use your own at risk
 
 [Documentaion](https://github.com/AreaLayer/javascript-dlc/blob/main/docs/run.md)
 
+## Library
+
+Import packages or modules for buidl your own application
+
+[Check details](https://github.com/AreaLayer/javascript-dlc/blob/main/docs/library.md)
+
 ## NIP complementary and optional
 
 [More details here](https://github.com/AreaLayer/NIP-xxx)

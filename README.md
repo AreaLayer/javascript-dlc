@@ -20,11 +20,11 @@ Contributions are welcome
 
 ## Status
 
-The implementation is mainly based on the [DLC specifications](https://github.com/discreetlogcontracts/dlcspecs) but is not yet fully compliant with it
+The implementation is mainly based on the [DLC specifications](https://github.com/discreetlogcontracts/dlcspecs)
 
 ## Run Javascript DLC
 
-Disclaimer: Note this library isn't full tested. Use your own at risk
+**Disclaimer:** Note this library isn't full tested. Use your own at risk
 
 [Documentaion](https://github.com/AreaLayer/javascript-dlc/blob/main/docs/run.md)
 
@@ -41,10 +41,6 @@ Import packages or modules for buidl your own application
 ### Contribution
 
 [Checkout here](https://github.com/AreaLayer/javascript-dlc/blob/main/CONTRIBUTING.md)
-
-### License
-
-MIT
 
 ## Roadmap
 

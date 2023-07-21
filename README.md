@@ -1,4 +1,4 @@
-# Javascript-DLC
+# Javascript-DLC ⚡ 
 
 [![Node.js Package](https://github.com/AreaLayer/javascript-dlc/actions/workflows/npm-publish.yml/badge.svg?branch=main&event=public)](https://github.com/AreaLayer/javascript-dlc/actions/workflows/npm-publish.yml)
 

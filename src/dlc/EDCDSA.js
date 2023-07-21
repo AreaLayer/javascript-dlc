@@ -2,6 +2,10 @@ const bitcoin = require('bitcoinjs-lib');
 const { createHash } = require('crypto');
 const { secp256k1 } = require('ldk-node-js');
 
+// Mainnet or Testnet
+const NETWORK = bitcoin.networks.mainnet
+const NETWORK = bitcoin.networks.testnet
+
 // Generate Taproot address
 function generateTaprootAddress() {
   const keyPair = bitcoin.ECPair.makeRandom();

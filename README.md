@@ -43,6 +43,7 @@ Import packages or modules for buidl your own application
 ## Roadmap
 
 - [ ] Mainnet
+- [x] Miniscript (experimental)
 - [ ] Integration with CLN
     
 - [ ] Compatible with Taproot Channels via LND

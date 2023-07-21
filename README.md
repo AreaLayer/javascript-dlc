@@ -12,7 +12,7 @@ Contributions are welcome
 
 - Lightning Network (LND/LDK/CLN/Eclair)
 
-- DLCs with core functions (Data, Covenants, EDCDSA, Event, Exc,Lightning Channel, Oracle, Schnorr, Sign, Taproot and Transaction)
+- DLCs with core functions (Data, Covenants, EDCDSA, Event, Exc,Lightning Channel, Oracle, Schnorr, Sign, Taproot, Miniscript and Transaction)
 
 - Nostr with relays and events (**experimental**)
 

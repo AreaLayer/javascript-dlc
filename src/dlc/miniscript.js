@@ -1,4 +1,5 @@
-// Example Miniscript for the Bet
+const miniscript = require('miniscriptlib-js');
+
 const MiniscriptBet = {
   // Alice and Bob's public keys (assuming P2WSH for brevity)
   alicePublicKey: "AlicePublicKey",

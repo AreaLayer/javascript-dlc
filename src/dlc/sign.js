@@ -1,5 +1,5 @@
 const BDK = require('bdk-ffi');
-onst LDK = require(' ldk-garbagecollected);
+const LDK = require('ldk-garbagecollected');
 
 // Mainnet or Testnet
 const NETWORK = bitcoin.networks.mainnet

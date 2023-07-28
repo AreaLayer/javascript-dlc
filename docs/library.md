@@ -10,6 +10,8 @@ In this library, we have sections:
 
 You can use Events or data using `const DLC` for build your applications using DLCs
 
+All the code about DLCs, Lightning, Nostr and Bitcoin is in [src](https://github.com/AreaLayer/javascript-dlc/tree/main/src) folder
+
 ### Example
 
 ```javascript

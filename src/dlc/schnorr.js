@@ -5,7 +5,6 @@ const schnorr = require('bip-schnorr');
 
 // Mainnet or Testnet
 const NETWORK = bitcoin.networks.mainnet
-const NETWORK = bitcoin.networks.testnet
 
 // Generate Taproot address
 function generateTaprootAddress() {

@@ -1,10 +1,11 @@
 // Install BDK and LDK using npm or yarn
 const { ElectrumNetwork, Wallet, Psbt } = require('bitcoin-js');
 const { ChannelManager, PaymentStatus, Invoice } = require('ldk-node-js');
+const bitcoin = require('bitcoin-networks');
 
 // Mainnet or Testnet
-const NETWORK = bitcoin.networks.mainnet
-const NETWORK = bitcoin.networks.testnet
+const NETWORK = bitcoin.networks.mainnet;
+// const NETWORK = bitcoin.networks.testnet;
 
 // Set up BDK wallet
 const wallet = new Wallet('testnet', 'path/to/wallet.dat');
@@ -80,7 +81,7 @@ async function runDLC() {
   const settlementTxHex = await createSettlementTransaction(eventType, payoutAddress, payoutAmount);
 
   await connectToNode();
-  await createInvoice(settlementValue);
+  await createInvoice(payoutAmount); // Fixed the variable name here
 
   // ... Rest of the DLC logic goes here ...
 
@@ -92,4 +93,5 @@ async function runDLC() {
 
 // Start the DLC
 runDLC().catch(console.error);
+
 

@@ -1,10 +1,7 @@
 const miniscript = require('miniscriptlib-js');
 
-
-
 // Mainnet or Testnet
 const NETWORK = bitcoin.networks.mainnet
-const NETWORK = bitcoin.networks.testnet
 
 const MiniscriptBet = {
   // Alice and Bob's public keys (assuming P2WSH for brevity)

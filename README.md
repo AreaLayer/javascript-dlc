@@ -41,7 +41,7 @@ Import packages or modules for buidl your own application
 
 ## Roadmap
 
-- [ ] Mainnet
+- [x] Mainnet
 - [x] Miniscript (experimental)
 - [ ] Tapscript (experimentl)
 - [ ] CTV (experimental)

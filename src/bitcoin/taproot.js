@@ -1,5 +1,6 @@
 const bitcoin = require('bitcoinjs-lib');
 const NETWORK = bitcoin.networks.testnet;
+const NETWORK = bitcoin.networks.mainnet;
 
 // Generate Taproot address
 function generateTaprootAddress() {

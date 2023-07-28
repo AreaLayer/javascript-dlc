@@ -6,7 +6,6 @@ const { ChannelManager, PaymentStatus, Invoice } = require('ldk-node-js');
 
 // Mainnet or Testnet
 const NETWORK = bitcoin.networks.mainnet
-const NETWORK = bitcoin.networks.testnet
 
 // Set up BDK wallet
 const wallet = new Wallet('testnet', 'path/to/wallet.dat');

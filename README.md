@@ -13,7 +13,7 @@ Contributions are welcome
 
 - DLCs with core functions (Data, Covenants, EDCDSA, Event, Exc,Lightning Channel, Oracle, Schnorr, Sign, Taproot, Miniscript and Transaction)
 
-- Nostr with relays and events (**experimental**)
+- Nostr with relays and events (experimental)
 
 - Bitcoin Network (Mainnet, Testnet or Signet)
 

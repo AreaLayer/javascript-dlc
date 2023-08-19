@@ -33,10 +33,6 @@ Import packages or modules for buidl your own application
 
 [Check details](https://github.com/AreaLayer/javascript-dlc/blob/main/docs/library.md)
 
-## NIP complementary and optional
-
-[More details here](https://github.com/AreaLayer/NIP-xxx)
-
 ### Contribution
 
 [Checkout here](https://github.com/AreaLayer/javascript-dlc/blob/main/CONTRIBUTING.md)

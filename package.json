@@ -20,7 +20,7 @@
 "access": "public"
 },
 "network"
-"mainnet"
-"testnet"
-"signet"
-},
+"mainnet":"https://mempool.space/",
+"testnet":"https://mempool.space/testnet",
+"signet":"https://mempool.space/signet",
+}

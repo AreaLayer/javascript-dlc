@@ -2,6 +2,8 @@ const tapscriptModule = require('./tapscript/pkg/tapscript');
 
 const { Tapscript, parse_script } = tapscriptModule;
 
+const network = bitcoin.networks.bitcoin;
+
 async function run() {
   // Initialize the WebAssembly module
   await tapscriptModule;

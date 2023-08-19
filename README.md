@@ -48,6 +48,5 @@ Import packages or modules for buidl your own application
 - [ ] Tapscript (experimentl)
 - [ ] CTV (experimental)
 - [ ] FROST (experimental)
-- [ ] Integration with CLN
-    
-- [ ] Compatible with Taproot Channels via LND
+- [x] Integration with Greenlight
+- [x] Compatible with Taproot Channels via LND

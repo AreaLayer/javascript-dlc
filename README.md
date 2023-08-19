@@ -41,9 +41,3 @@ Import packages or modules for buidl your own application
 
 [Checkout here](https://github.com/AreaLayer/javascript-dlc/blob/main/CONTRIBUTING.md)
 
-## Roadmap
-
-- [x] Mainnet
-- [x] Miniscript (experimental)
-- [x] Integration with Greenlight
-- [x] Compatible with Taproot Channels via LND

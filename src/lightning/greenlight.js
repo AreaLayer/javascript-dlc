@@ -7,7 +7,7 @@ const apiKey = 'your-api-key'; // Your Greenlight API key
 const fundingAmount = 10000000; // Amount in satoshis
 
 // Generate keys
-const network = bitcoin.networks.testnet; // Use 'bitcoin.networks.bitcoin' for mainnet
+const network = bitcoin.networks.bitcoin; // Use 'bitcoin.networks.bitcoin' for mainnet
 const { publicKey, privateKey } = bitcoin.ECPair.makeRandom({ network });
 
 // Create Bech32 addresses

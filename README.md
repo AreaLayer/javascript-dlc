@@ -45,8 +45,6 @@ Import packages or modules for buidl your own application
 
 - [x] Mainnet
 - [x] Miniscript (experimental)
-- [ ] Tapscript (experimentl)
-- [ ] CTV (experimental)
-- [ ] FROST (experimental)
+- [x] Tapscript (experimentl)
 - [x] Integration with Greenlight
 - [x] Compatible with Taproot Channels via LND

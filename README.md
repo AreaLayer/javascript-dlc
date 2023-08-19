@@ -45,6 +45,5 @@ Import packages or modules for buidl your own application
 
 - [x] Mainnet
 - [x] Miniscript (experimental)
-- [x] Tapscript (experimentl)
 - [x] Integration with Greenlight
 - [x] Compatible with Taproot Channels via LND

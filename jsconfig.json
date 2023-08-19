@@ -10,6 +10,7 @@
 "Sign": true,
 "testnet": true,
 "mainnet": true,
+"signet": true,
 "Taproot Channel": true,
 "Miniscript": true,
 "Greenlight":true,

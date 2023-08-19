@@ -1,6 +1,6 @@
 {
 "name":"javascript-dlc"
-"version":"1.0.1-beta"
+"version":"1.0.3-beta"
 "license":"MIT"
 "author":"Area Layer"
 },
@@ -18,3 +18,9 @@
 "publishConfig": {
 "registry": "https://registry.npmjs.org",
 "access": "public"
+},
+"network"
+"mainnet"
+"testnet"
+"signet"
+},

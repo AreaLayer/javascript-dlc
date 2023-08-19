@@ -9,7 +9,7 @@ Contributions are welcome
 
 ## Standard Compliance
 
-- Lightning Network (LND/LDK/CLN/Eclair)
+- Lightning Network (LND/LDK/CLN/Eclair/Greenlight)
 
 - DLCs with core functions (Data, Covenants, EDCDSA, Event, Exc,Lightning Channel, Oracle, Schnorr, Sign, Taproot, Miniscript and Transaction)
 

@@ -1,5 +1,5 @@
 const bitcoin = require('bitcoinjs-lib');
-const { GreenlightApiClient } = require('@greenlight/client-js');
+const { GreenlightApiClient } = require('@greenlight/gl-client-js');
 
 // Replace these with your actual values
 const greenlightBaseUrl = 'https://your-greenlight-instance.com'; // Greenlight API base URL

@@ -9,13 +9,39 @@ Contributions are welcome
 
 ## Standard Compliance
 
-- Lightning Network (LND/LDK/CLN/Eclair/Greenlight)
+### Lightning Network:
 
-- DLCs with core functions (Data, Covenants, EDCDSA, Event, Exc,Lightning Channel, Oracle, Schnorr, Sign, Taproot, Miniscript and Transaction)
+- LND
+- LDK
+- Greenlight
+- Eclair
+- Core Lightning
 
-- Nostr with relays and events (experimental)
+### DLCs with core functions:
 
-- Bitcoin Network (Mainnet, Testnet or Signet)
+- Data
+- Covenants
+- EDCDSA
+- Event
+- Exc
+- Lightning Channel (non-taproot)
+- Miniscript
+- Sign
+- Schorr
+- Sign
+- Oracle
+- Transaction
+- Taproot Channel
+
+### Nostr:
+
+- Relay and Events (experimental)
+
+### Bitcoin Network
+
+- Mainnet
+- Testnet
+- Signet
 
 ## Status
 
@@ -37,3 +63,6 @@ Import packages or modules for buidl your own application
 
 [Checkout here](https://github.com/AreaLayer/javascript-dlc/blob/main/CONTRIBUTING.md)
 
+## Roadmap
+
+- [] Integration with [Wrapped LDK]https://github.com/lightningdevkit/ldk-garbagecollected/tree/main/ts)

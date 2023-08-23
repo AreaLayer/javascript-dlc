@@ -55,7 +55,7 @@ The implementation is mainly based on the [DLC specifications](https://github.co
 
 ## Library
 
-Import packages or modules for buidl your own application
+Import packages or modules for build your own application
 
 [Check details](https://github.com/AreaLayer/javascript-dlc/blob/main/docs/library.md)
 

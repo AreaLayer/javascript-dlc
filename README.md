@@ -65,4 +65,4 @@ Import packages or modules for build your own application
 
 ## Roadmap
 
-- [ ] Integration with [Wrapped LDK](https://github.com/lightningdevkit/ldk-garbagecollected/tree/main/ts)
+- [x] Integration with [Wrapped LDK](https://github.com/lightningdevkit/ldk-garbagecollected/tree/main/ts)

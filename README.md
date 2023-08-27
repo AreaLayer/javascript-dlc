@@ -47,6 +47,8 @@ Contributions are welcome
 
 The implementation is mainly based on the [DLC specifications](https://github.com/discreetlogcontracts/dlcspecs)
 
+More information around [DLCs](https://www.dlc.wiki/)
+
 ## Run Javascript DLC
 
 **Disclaimer:** Note this library isn't full tested. Use your own at risk

@@ -21,6 +21,7 @@ async function main() {
   };
 
   const contractDescriptor = {
+    
 
 
   // Create and sign DLC transaction
@@ -46,10 +47,7 @@ async function main() {
     partyASigs,
     partyBSigs,
   });
-
-  // Broadcast the contract transaction to the network
-  // ...
-
+  
   // Interact with the DLC contract
   const dlcContract = ldk.loadDlcContract(contractDescriptor);
 

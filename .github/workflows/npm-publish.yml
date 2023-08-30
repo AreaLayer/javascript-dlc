@@ -19,4 +19,5 @@ jobs:
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          DEFAULT: ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true
 

@@ -14,12 +14,14 @@ async function main() {
 
   // Define contract parameters
   const oracleInfo = {
-    // ... oracle info ...
+    price: Number,
+    sats: Number,
+    pair: String,
+  
   };
 
   const contractDescriptor = {
-    // ... contract descriptor ...
-  };
+
 
   // Create and sign DLC transaction
   const contractTxId = Txid.fromHex('previous_transaction_id');
@@ -27,15 +29,12 @@ async function main() {
   const fundAmount = 10000000; // Amount in satoshis
 
   const oracleSigs = {
-    // ... oracle signatures ...
   };
 
   const partyASigs = {
-    // ... party A signatures ...
   };
 
   const partyBSigs = {
-    // ... party B signatures ...
   };
 
   const contractTx = await ldk.createDlcTransactions({

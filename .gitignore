@@ -2,3 +2,13 @@ Package.json
 Package-lock.json
 data.js
 covenants.js
+ex.js
+lnd.js
+eclair.js
+greenlight.js
+ldk.js
+ldk_ts.js
+oracle.js
+sign.js
+trasction.js
+taproot_chaannel.js

@@ -22,7 +22,7 @@ async function main() {
 
   const contractDescriptor = {
     
-
+async function main() {
 
   // Create and sign DLC transaction
   const contractTxId = Txid.fromHex('previous_transaction_id');

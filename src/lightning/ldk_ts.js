@@ -17,6 +17,7 @@ async function main() {
     price: Number,
     sats: Number,
     pair: String,
+    peers: String,
   
   };
 

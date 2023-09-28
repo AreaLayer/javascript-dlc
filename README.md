@@ -32,6 +32,7 @@ A Javascript library for working with [Discreet Log Contracts](https://adiabat.g
 - Oracle
 - Transaction
 - Taproot Channel
+- UTXOracle 
 
 ### Nostr:
 

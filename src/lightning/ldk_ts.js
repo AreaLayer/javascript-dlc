@@ -2,7 +2,7 @@
 import { LDK } from 'ldk';
 import { Secp256k1, Network, OutPoint, Txid, Script } from 'ldk';
 
-async function main() {
+async function LDK () {
   // Initialize LDK
   const ldk = LDK.create(Network.Testnet);
 
@@ -23,7 +23,7 @@ async function main() {
 
   const contractDescriptor = {
     
-async function main() {
+async function DLC() {
 
   // Create and sign DLC transaction
   const contractTxId = Txid.fromHex('previous_transaction_id');

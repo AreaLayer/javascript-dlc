@@ -7,7 +7,7 @@ A Javascript library for working with [Discreet Log Contracts](https://adiabat.g
 
 ⚠️**Disclaimer: Beta Software**
 
-## Standard Compliance
+## Standard Compliance and library
 
 ### Lightning Network:
 

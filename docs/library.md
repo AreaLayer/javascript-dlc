@@ -2,7 +2,7 @@
 
 In this library, we have sections:
 
-- DLC with Events, Signatures, Data
+- DLC with Events, Signatures, Data, UTXOracle
 - Lightning Network with CLN, Eclair, LND
 - Nostr with examples
 - Mainnet or Testnet

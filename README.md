@@ -42,7 +42,6 @@ A Javascript library for working with [Discreet Log Contracts](https://adiabat.g
 
 - Mainnet
 - Testnet
-- Signet
 
 ## Status
 

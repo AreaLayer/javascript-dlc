@@ -68,4 +68,5 @@ Import packages or modules for build your own application
 ### Roamdap
 
 - [x] Fix issues and bugs (WIP)
+- [ ] Create a clear documentation
 - [ ] Release out of beta

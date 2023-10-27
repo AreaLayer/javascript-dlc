@@ -12,7 +12,7 @@
 
 ## 1. Introduction <a name="introduction"></a>
 
-Provide a brief overview of your JavaScript Dynamic Linked Component (DLC). Explain its purpose, benefits, and any other relevant information.
+Javascript DLC is a library for Discreet Log Contracts
 
 ## 2. Getting Started <a name="getting-started"></a>
 

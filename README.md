@@ -6,7 +6,9 @@ A Javascript library for working with [Discreet Log Contracts](https://adiabat.g
 **Contributions are welcome**
 
 ⚠️**Disclaimer: Beta Software**
+
 ⚠️**Disclaimer: Use small amount**
+
 ⚠️**Disclaimer: This software is still WIP**
 
 ## Standard Compliance and library

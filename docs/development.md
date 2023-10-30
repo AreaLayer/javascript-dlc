@@ -24,6 +24,7 @@ List the software and tools that users need to have installed on their system be
 
 - [Node.js](https://nodejs.org/) (v14.0.0 or higher)
 - [npm](https://www.npmjs.com/)
+- Git
 
 ### 2.2 Installation <a name="installation"></a>
 
@@ -31,10 +32,10 @@ Provide step-by-step instructions for users to install and set up your DLC. This
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/AreaLayer/javascript-dlc.git
 
 # Change to the project directory
-cd your-repo
+cd javascriptdlc
 
 # Install dependencies
 npm install

@@ -47,7 +47,7 @@ Explain how users can use your DLC in their own projects. Provide code examples,
 
 ```javascript
 // Example code demonstrating how to use your DLC
-const dlc = require('your-dlc-package');
+const dlc = require('dlc');
 
 const result = dlc.doSomething();
 console.log(result);

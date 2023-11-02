@@ -68,7 +68,6 @@ npm test
 
 ### 4.2 Writing Tests
 
-Explain how users can write their own tests for your DLC. Include guidelines and best practices.
 
 ```javascript
 const { executeDLC, verifyDLCResult } = require('./dlc-utils'); // Replace with your DLC utility functions

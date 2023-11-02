@@ -91,6 +91,7 @@ test('DLC Execution Test', () => {
   // Assert the test
   expect(isDLCSuccessful).toBe(true);
 });
+```
 
 In this example, we have a test case for a DLC execution. You'll need to replace the executeDLC and verifyDLCResult functions with your actual implementation. The dlcParams object should contain the necessary parameters for your DLC, and you should set the expectedOutcome to what you expect the outcome of the DLC to be.
 

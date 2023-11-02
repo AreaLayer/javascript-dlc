@@ -1,1 +1,31 @@
+# Bitcoin Core RPC settings
+bitcoin_rpc:
+  enabled: true
+  host: your_bitcoin_rpc_production_host
+  port: your_bitcoin_rpc_production_port
+  username: your_bitcoin_rpc_production_username
+  password: your_bitcoin_rpc_production_password
+
+# Lightning Node settings
+lightning_node:
+  enabled: true
+  implementation: your_lightning_node_implementation  # Replace with your Lightning implementation (e.g., LND, c-lightning, Eclair, etc.)
+  host: your_lightning_node_production_host
+  port: your_lightning_node_production_port
+  pubkey: your_lightning_node_pubkey
+  rpc_host: your_lightning_rpc_production_host
+  rpc_port: your_lightning_rpc_production_port
+  rpc_username: your_lightning_rpc_production_username
+  rpc_password: your_lightning_rpc_production_password
+
+# DLC (Discreet Log Contract) settings
+dlc:
+  contract: your_dlc_production_contract  # Replace with your DLC contract details
+  utxo:  # UTXO details for the DLC
+    transaction_id: your_utxo_transaction_id
+    vout: your_utxo_vout
+
+# Network settings
+network:
+  mainnet: true  # Set to true for mainnet, false for testnet
 

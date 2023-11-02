@@ -101,20 +101,36 @@ Before running the test, ensure you've installed Jest and configured it for your
 
 ## 5. Contributing <a name="contributing"></a>
 
-Encourage users to contribute to your project by providing guidelines for contributing, reporting issues, and making pull requests.
+[Guide contribution](https://github.com/AreaLayer/javascript-dlc/blob/main/CONTRIBUTING.md)
 
 ### 5.1 Code of Conduct
 
-Include a link to your project's Code of Conduct.
+[Code of Conduct](https://github.com/AreaLayer/javascript-dlc/blob/main/CODE_OF_CONDUCT.md)
 
 ### 5.2 How to Contribute
 
-Explain how users can contribute to your project, whether it's by reporting issues, suggesting improvements, or submitting code changes.
-
-### 5.3 Pull Request Guidelines
-
-Specify the process for submitting pull requests, including code review and coding standards.
+[Guide contribution](https://github.com/AreaLayer/javascript-dlc/blob/main/CONTRIBUTING.md)
 
 ## 6. License <a name="license"></a>
 
-Specify the project's open-source license, such as MIT, Apache, or any other, and provide a link to the full license text.
+MIT License
+
+Copyright (c) 2023 Area Layer⚡️
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

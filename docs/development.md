@@ -71,12 +71,32 @@ npm test
 Explain how users can write their own tests for your DLC. Include guidelines and best practices.
 
 ```javascript
-// Example test case using Jest
-test('Test case description', () => {
-  // Write your test code here
-  expect(true).toBe(true);
+const { executeDLC, verifyDLCResult } = require('./dlc-utils'); // Replace with your DLC utility functions
+
+test('DLC Execution Test', () => {
+  // Set up the DLC parameters and contract
+  const dlcParams = {
+    oracleSignature: 'mock_oracle_signature',
+    oraclePublicKey: 'mock_oracle_public_key',
+    contract: 'your_dlc_contract_details', // Replace with your contract
+  };
+
+  // Execute the DLC
+  const dlcResult = executeDLC(dlcParams);
+
+  // Verify the DLC result
+  const expectedOutcome = 'expected_outcome'; // Replace with your expected outcome
+  const isDLCSuccessful = verifyDLCResult(dlcResult, expectedOutcome);
+
+  // Assert the test
+  expect(isDLCSuccessful).toBe(true);
 });
-```
+
+In this example, we have a test case for a DLC execution. You'll need to replace the executeDLC and verifyDLCResult functions with your actual implementation. The dlcParams object should contain the necessary parameters for your DLC, and you should set the expectedOutcome to what you expect the outcome of the DLC to be.
+
+Make sure that you have the appropriate testing infrastructure in place and that your executeDLC function simulates the execution of a DLC using the provided parameters. The verifyDLCResult function should compare the actual outcome of the DLC to the expected outcome and return true if they match.
+
+Before running the test, ensure you've installed Jest and configured it for your project. You may also need to set up mock objects or utilities for the DLC-specific functions, such as executeDLC and verifyDLCResult, to facilitate testing.
 
 ## 5. Contributing <a name="contributing"></a>
 

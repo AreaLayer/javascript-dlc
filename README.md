@@ -69,7 +69,7 @@ More information around [DLCs](https://www.dlc.wiki/)
 Import packages or modules for build your own application
 
 - [Check details](https://github.com/AreaLayer/javascript-dlc/blob/main/docs/library.md)
-- Development (Soon)
+- [Development](https://github.com/AreaLayer/javascript-dlc/blob/main/docs/development.md)
 
 ### Contribution
 

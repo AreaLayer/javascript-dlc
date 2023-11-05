@@ -20,7 +20,7 @@ All the code about DLCs, Lightning, Nostr and Bitcoin is in [src](https://github
 const DLC = require('data');
 const DLC = require('DLC-js');
 
-const NETWORK = bitcoin.networsk.testnet;
+const NETWORK = bitcoin.networks.testnet;
 
 function Oracle = {
 Oracleinfo = contract_pubkey;

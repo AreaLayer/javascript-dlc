@@ -46,7 +46,7 @@ A Javascript library for working with [Discreet Log Contracts](https://adiabat.g
 
 - Relay and Events (experimental)
 
-## Privacy
+### Privacy
 
 - Tor
 - I2P

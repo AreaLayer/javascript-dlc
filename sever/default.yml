@@ -1,1 +1,24 @@
+# Server Configuration for DLC Support
+bitcoin_core:
+  rpc:
+    user: your_rpc_username
+    password: your_rpc_password
+    port: 8332
+  server: true
+  txindex: true
+  testnet: true  # Remove for mainnet
+  walletnotify: /path/to/your/script %s
+
+oracle_service:
+  endpoint: http://your-oracle-service-api-endpoint
+  api_key: your_api_key
+  # Add other relevant configuration for your specific Oracle service
+
+database:
+  host: your_database_host
+  username: your_database_username
+  password: your_database_password
+  database_name: your_database_name
+
+# Add more sections for other components/services as needed
 

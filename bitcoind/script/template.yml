@@ -1,1 +1,10 @@
+# Bitcoin Core Configuration for DLC Support
+rpc:
+  user: your_rpc_username
+  password: your_rpc_password
+  port: 8332
+server: true
+txindex: true
+testnet: true  # Remove for mainnet
+walletnotify: /path/to/your/script %s
 

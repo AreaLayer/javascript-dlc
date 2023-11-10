@@ -9,7 +9,7 @@ bitcoin_rpc:
 # Lightning Node settings
 lightning_node:
   enabled: true
-  implementation: c-lightning  # Replace with your Lightning implementation (e.g., LND, Eclair, etc.)
+  implementation: Lightning Node  # Replace with your Lightning implementation (e.g., LND, Eclair, etc.)
   host: localhost
   port: 9735
   pubkey: your_lightning_node_pubkey

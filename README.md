@@ -84,3 +84,10 @@ Import packages or modules for build your own application
 - [x] Fix issues and bugs (WIP)
 - [x] Create a clear documentation
 - [ ] Release out of beta
+
+
+## Contributors
+
+<a align="center" href="https://github.com/AreaLayer/javascript-dlc/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AreaLayer/javascript-dlc" />
+</a>

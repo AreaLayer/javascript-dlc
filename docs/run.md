@@ -7,6 +7,7 @@ Run the DLC in your lightning node
 - Lightning Node (Unannounced integration)
 - NPM
 - Git
+- Bitoin Core
 
 ### Copy/paste repository
 

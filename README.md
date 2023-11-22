@@ -83,7 +83,7 @@ Import packages or modules for build your own application
 
 - [x] Fix issues and bugs (WIP)
 - [x] Create a clear documentation
-- [ ] Release out of beta
+- [x] Release out of beta
 
 
 ## Contributors

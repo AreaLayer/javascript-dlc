@@ -79,13 +79,6 @@ Import packages or modules for build your own application
 
 [Checkout here](https://github.com/AreaLayer/javascript-dlc/blob/main/CONTRIBUTING.md)
 
-### Roamdap
-
-- [x] Fix issues and bugs (WIP)
-- [x] Create a clear documentation
-- [x] Release out of beta
-
-
 ## Contributors
 
 <a align="center" href="https://github.com/AreaLayer/javascript-dlc/graphs/contributors">

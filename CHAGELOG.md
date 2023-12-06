@@ -11,7 +11,5 @@
 
 **Highlights**
 
-    - Clean docs
-    - Changelog (WIP)
-    - Added Bitcoin Core by default.yml, template and bitcoin.conf by @Rsync25
-    - Fix bugs and libraries (WIP)
+ - Clean docs
+ - Changelog 

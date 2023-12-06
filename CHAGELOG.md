@@ -1,6 +1,6 @@
 # Versions
 
-## V1.0.8 - Beta 
+### V1.0.8 - Beta 
 
 **Highlights**
 

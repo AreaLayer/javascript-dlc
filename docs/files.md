@@ -1,3 +1,12 @@
 # Files for Javascript DLC
 
-TBD
+- Lib
+- RPC
+- Scripts
+- Sever
+- Test
+- BitcoiND
+- Bitcoin
+- DLC
+- Nostr
+- Lightning

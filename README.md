@@ -82,6 +82,10 @@ Import packages or modules for build your own application
 ## Roadmap
 
 - [ ] Nakamoto version
+- [ ] Tapscript
+- [ ] Oracle
+- [ ] Frost
+- [ ] Musig2
   
 ## Contributors
 

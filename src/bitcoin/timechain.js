@@ -1,7 +1,7 @@
 const bitcoin = require('bitcoin');
 const { Bitcoin } = require('bitcoin-js'); 
 
-const NETWORK = bitcoin.networks.testnet;
+const NETWORK = bitcoin.networks.bitcoin;
 
 class DLC {
   constructor(blockchain) {

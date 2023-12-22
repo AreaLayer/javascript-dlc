@@ -1,5 +1,15 @@
 # Versions
 
+### V1.0.10 - Beta
+
+TBA 
+
+### V1.0.9 - Beta
+
+**Highlights**
+
+- Fixed contracts and many more
+
 ### V1.0.8 - Beta 
 
 **Highlights**
@@ -7,7 +17,7 @@
 - Settings for Bitcoin Core
 - Fixed issues and bugs
 
-### 1.0.7-beta
+### 1.0.7 - Beta
 
 **Highlights**
 

@@ -2,7 +2,10 @@
 
 ### V1.0.10 - Beta
 
-TBA 
+**Highlights**
+
+- Fixed contracts and libraries for mainnet by @Rsync25
+-  Set Roadmap for 2024 by @Rsync25
 
 ### V1.0.9 - Beta
 

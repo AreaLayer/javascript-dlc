@@ -84,6 +84,7 @@ Import packages or modules for build your own application
 - [ ] Oracle
 - [ ] Frost
 - [ ] Musig2
+- [ ] Support for other JS libraries from Bitcoin
   
 ## Contributors
 

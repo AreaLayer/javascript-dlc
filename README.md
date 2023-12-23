@@ -80,6 +80,7 @@ Import packages or modules for build your own application
 ## Roadmap
 
 - [ ] Nakamoto version
+- [ ] Compatible with React
 - [ ] Tapscript
 - [ ] Oracle
 - [ ] Frost

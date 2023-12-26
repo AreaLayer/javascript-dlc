@@ -79,7 +79,7 @@ Import packages or modules for build your own application
 
 ## Roadmap
 
-- [ ] Nakamoto version
+- [ ] Nakamoto version in 2024
 - [ ] Compatible with React
 - [ ] Tapscript
 - [ ] Oracle

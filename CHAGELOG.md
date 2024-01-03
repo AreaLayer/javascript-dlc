@@ -1,5 +1,13 @@
 # Versions
 
+
+### V1.0.11 - Beta
+
+**Highlights**
+
+- Fixed dependencies
+- DLC in React (WIP)
+
 ### V1.0.10 - Beta
 
 **Highlights**

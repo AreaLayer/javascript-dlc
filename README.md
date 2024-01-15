@@ -86,6 +86,7 @@ Import packages or modules for build your own application
 - [ ] Frost
 - [ ] Musig2
 - [ ] NIP-88
+- [ ] TXO
 - [ ] Support for other JS libraries from Bitcoin
   
 ## Contributors

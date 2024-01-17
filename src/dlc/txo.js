@@ -1,3 +1,3 @@
-const 'bitcoinjs-lib';
+const bitcoin = require('bitcoinjs-lib');
 
-const txo
+const txo = 

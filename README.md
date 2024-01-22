@@ -87,7 +87,7 @@ Import packages or modules for build your own application
 - [ ] Musig2
 - [ ] NIP-88
 - [ ] TXO
-- [ ] API for JS DLC
+- [ ] API for JS DLC by OpenAI
 - [ ] Support for other JS libraries from Bitcoin
   
 ## Contributors

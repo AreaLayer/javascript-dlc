@@ -1,5 +1,5 @@
 const bitcoin = require('bitcoin');
-const { Bitcoin } = require('bitcoin-js'); 
+const {PublicKey,PrivateKey,TXId } = require('bitcoin-js'); 
 
 const NETWORK = bitcoin.networks.bitcoin;
 

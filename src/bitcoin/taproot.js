@@ -1,4 +1,4 @@
-const bitcoin = require('bitcoinjs-lib');
+const {Taproot, PublicKey,Crypto,Hash160, Ecpair} = require('bitcoinjs-lib');
 const NETWORK = bitcoin.networks.bitcoin;
 
 // Generate Taproot address

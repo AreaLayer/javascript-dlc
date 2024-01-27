@@ -1,4 +1,4 @@
-const bitcoin = require('bitcoinjs-lib');
+const {BlockHash,, RPC,Block, TXId} = require('bitcoinjs-lib');
 const axios = require('axios');
 
 console.log("UTXOracle version 6\n");

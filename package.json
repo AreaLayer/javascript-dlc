@@ -19,6 +19,7 @@
 "registry": "https://registry.npmjs.org",
 "access": "public"
 },
+{
 "network"
 "mainnet":"https://mempool.space/",
 "testnet":"https://mempool.space/testnet",

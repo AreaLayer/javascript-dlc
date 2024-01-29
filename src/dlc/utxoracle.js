@@ -1,7 +1,7 @@
 const {BlockHash,, RPC,Block, TXId} = require('bitcoinjs-lib');
 const axios = require('axios');
 
-console.log("UTXOracle version 6\n");
+console.log("UTXOracle version 7\n");
 
 // Bitcoin Core RPC settings
 const rpcConfig = {

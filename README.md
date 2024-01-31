@@ -9,7 +9,7 @@ A Javascript library for working with [Discreet Log Contracts](https://adiabat.g
 
 ⚠️**Use small amount**
 
-## Standard Compliance and library
+### Standard Compliance and library
 
 ### Bitcoin 
 
@@ -53,6 +53,7 @@ A Javascript library for working with [Discreet Log Contracts](https://adiabat.g
 
 - Mainnet
 - Testnet
+- Signet
 
 ## Status
 

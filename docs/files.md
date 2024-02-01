@@ -11,3 +11,4 @@
 - Nostr: Experimental integration between DLCs and Nostr
 - Lightning: Lightning integration with DLCs
 - React: Main functions of the DLCs in JSX
+- APIs: API functions powered by OpenAI

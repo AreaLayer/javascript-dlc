@@ -20,5 +20,8 @@ database:
   password: your_database_password
   database_name: your_database_name
 
+server: 
+host: 
+port:
 # Add more sections for other components/services as needed
 

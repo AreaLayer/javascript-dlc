@@ -81,7 +81,7 @@ Import packages or modules for build your own application
 ## Roadmap
 
 - [ ] Nakamoto version in 2024
-- [ ] Compatible with React
+- [ ] Compatible with React and LDK react
 - [ ] Tapscript
 - [ ] Oracle
 - [ ] Frost

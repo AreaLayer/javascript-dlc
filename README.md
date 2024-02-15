@@ -1,4 +1,4 @@
-# Javascript DLC ⚡ 
+# Javascript DLC ⚡ 👁️
 
 
 A Javascript library for working with [Discreet Log Contracts](https://adiabat.github.io/dlc.pdf).

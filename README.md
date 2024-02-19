@@ -55,6 +55,10 @@ A Javascript library for working with [Discreet Log Contracts](https://adiabat.g
 - Testnet
 - Signet
 
+## API
+
+- OpenAI
+
 ## Status
 
 The implementation is mainly based on the [DLC specifications](https://github.com/discreetlogcontracts/dlcspecs)

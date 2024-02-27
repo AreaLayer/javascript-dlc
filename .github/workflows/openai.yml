@@ -3,7 +3,7 @@ info:
   title: Javascript DLC
   description: |-
     This is the OpenAPI specification for the
-    [RGB Lightning Node](https://github.com/AreaLayer/Javascript-DLC) APIs.
+    [Javascript DLC](https://github.com/AreaLayer/Javascript-DLC).
     name: MIT
     url: https://mit-license.org/
   version: 0.1.0

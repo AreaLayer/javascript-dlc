@@ -1,5 +1,13 @@
 # Versions
 
+
+### V1.0.13 - Beta 
+
+**Highlights**
+
+- Fixed dependencies
+- Added OpenAI API
+
 ### V1.0.12 - Beta 
 
 **Highlights**

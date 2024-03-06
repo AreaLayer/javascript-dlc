@@ -90,6 +90,7 @@ Import packages or modules for build your own application
 - [x] Oracle (WIP)
 - [ ] Frost
 - [ ] Musig2
+- [ ] Minsiscript
 - [ ] NIP-88
 - [ ] TXO
 - [ ] RBF

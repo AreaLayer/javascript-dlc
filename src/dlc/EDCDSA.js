@@ -32,7 +32,7 @@ function createDLCContract() {
 
   // Construct the DLC contract
   const contract = {
-    address,
+    address,                                    redeemPeer, 
     redeemScript,
     keyPair,
     // Add other contract details

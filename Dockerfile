@@ -2,4 +2,3 @@
 
 # Bitcoin
 
-# Lightning

@@ -95,7 +95,7 @@ Import packages or modules for build your own application
 - [ ] TXO
 - [ ] RBF
 - [x] API for JS DLC by OpenAI (WIP)
-- [ ] Dockerfile
+- [x] Dockerfile
 - [ ] Support for other JS libraries from Bitcoin
   
 ## Contributors

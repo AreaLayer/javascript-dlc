@@ -1,5 +1,10 @@
 # Versions
 
+### V1.0.14 - Beta 
+
+**Highlights**
+
+- Fixed dependencies
 
 ### V1.0.13 - Beta 
 

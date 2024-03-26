@@ -1,4 +1,4 @@
-# Files for Javascript DLC
+# Files for Javascript DLC ⚡👁️‍🗨️
 
 - Lib: Libraries for DLCs
 - RPC: RPC section for DLCs

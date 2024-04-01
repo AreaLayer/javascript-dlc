@@ -1,3 +1,5 @@
 ## Javascript DLC
 
-TBD
+- DLC
+- Bitcoin
+- Lightning

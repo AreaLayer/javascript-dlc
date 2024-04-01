@@ -3,3 +3,4 @@
 - DLC
 - Bitcoin
 - Lightning
+- Nostr

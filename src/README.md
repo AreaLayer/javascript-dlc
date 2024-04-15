@@ -4,3 +4,4 @@
 - Bitcoin
 - Lightning
 - Nostr
+- RPCs

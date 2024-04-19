@@ -9,6 +9,7 @@ Run the DLC in your lightning node
 - Git
 - Bitoin Core
 - Bitcoinjs-lib
+- Lightning Node (optional)
 
 ### Copy/paste repository
 

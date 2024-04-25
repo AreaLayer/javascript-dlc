@@ -1,13 +1,19 @@
 # Versions
 
 
+
+### V1.0.16 - Beta 
+
+**Highlights**
+
+- Fixed dependencies
+
 ### V1.0.15 - Beta 
 
 **Highlights**
 
 - Fixed dependencies
 - Initial Dockerfile
-
 
 ### V1.0.14 - Beta 
 

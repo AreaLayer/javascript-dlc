@@ -96,7 +96,6 @@ Import packages or modules for build your own application
 - [ ] RBF
 - [x] API for JS DLC by OpenAI (WIP)
 - [x] Dockerfile
-- [ ] Support for other JS libraries from Bitcoin
   
 ## Contributors
 

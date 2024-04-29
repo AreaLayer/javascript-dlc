@@ -86,7 +86,6 @@ Import packages or modules for build your own application
 
 - [ ] Nakamoto version in 2024
 - [ ] Compatible with React and LDK react
-- [ ] Tapscript
 - [x] Oracle (WIP)
 - [ ] Frost
 - [ ] Musig2

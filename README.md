@@ -13,7 +13,7 @@ A Javascript library for working with [Discreet Log Contracts](https://adiabat.g
 
 ### Bitcoin 
 
-- Bitcoin Core
+- Bitcoin Core and other libraries
 
 ### Lightning Network:
 

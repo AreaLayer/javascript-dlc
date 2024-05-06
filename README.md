@@ -96,6 +96,7 @@ Import packages or modules for build your own application
 - [x] API for JS DLC by OpenAI (WIP)
 - [x] Dockerfile
 - [ ] BOLT12 support
+- [ ] BOLT11 support
   
 ## Contributors
 

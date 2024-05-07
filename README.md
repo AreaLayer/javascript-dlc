@@ -22,6 +22,7 @@ A Javascript library for working with [Discreet Log Contracts](https://adiabat.g
 - Greenlight
 - Eclair
 - Core Lightning
+- BOLT11/BOLT12
 
 ### DLCs with core functions:
 

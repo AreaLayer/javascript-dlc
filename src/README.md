@@ -5,3 +5,4 @@
 - Lightning
 - Nostr
 - RPCs
+- BOLT11/BOLT12

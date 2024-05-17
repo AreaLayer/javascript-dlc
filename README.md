@@ -96,6 +96,7 @@ Import packages or modules for build your own application
 - [ ] RBF
 - [x] API for JS DLC by OpenAI (WIP)
 - [x] Dockerfile
+- [ ] Bitcoin Knots
 - [ ] Testnet4
 - [ ] BOLT12 support
 - [ ] BOLT11 support

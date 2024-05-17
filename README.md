@@ -53,7 +53,7 @@ A Javascript library for working with [Discreet Log Contracts](https://adiabat.g
 ### Bitcoin Network (by default)
 
 - Mainnet
-- Testnet
+- Testnet4
 - Signet
 
 ## API

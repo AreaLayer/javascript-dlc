@@ -99,7 +99,7 @@ Import packages or modules for build your own application
 - [ ] Bitcoin Knots
 - [ ] Testnet4
 - [ ] BOLT12 support
-- [ ] BOLT11 support
+- [x] BOLT11 support
   
 ## Contributors
 

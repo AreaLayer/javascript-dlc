@@ -21,6 +21,6 @@
 {
 "network"
 "mainnet":"https://mempool.space/",
-"testnet":"https://mempool.space/testnet",
+"testnet":"https://mempool.space/testnet4",
 "signet":"https://mempool.space/signet",
 }

@@ -2,6 +2,14 @@
 
 
 
+### V1.0.17 - Beta 
+
+**Highlights**
+
+- Fixed dependencies
+- Initial BOLT11 implementation
+
+
 ### V1.0.16 - Beta 
 
 **Highlights**

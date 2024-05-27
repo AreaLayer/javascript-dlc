@@ -9,7 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"   
 }
 
-},
+}
+{
 "dependencies": {
 "bitcoinjs-lib": "^6.1.5",
 "bitcoinjs-message": "^6.1.5",
@@ -22,6 +23,7 @@
 "tiny-secp256k1": "^1.1.1",
 "wif": "^4.0.0".,
 "network": "0.0.12-3.0,
+}
 }
 "publishConfig": {
     "registry": "https://registry.npmjs.org",

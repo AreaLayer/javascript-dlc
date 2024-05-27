@@ -21,14 +21,13 @@
 "node-fetch": "^2.6.1",
 "secp256k1": "^4.0.2",
 "tiny-secp256k1": "^1.1.1",
-"wif": "^4.0.0".,
+"wif": "^4.0.0",
 "network": "0.0.12-3.0,
 }
 }
 "publishConfig": {
     "registry": "https://registry.npmjs.org",
     "access": "public"
-    }
 
 }
 {

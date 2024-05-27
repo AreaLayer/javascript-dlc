@@ -4,10 +4,9 @@
 "license":"MIT",
 "author":"Area Layer"
 }
-{
-    "name": "ldk-node-js",
-    "github": "https://github.com/synonymdev/ldk-node-js"
- }
+"dependencies": {
+"name": "ldk-node-js",
+"github": "https://github.com/synonymdev/ldk-node-js",
 "name":"lnd",
 "github":"https://github.com/alexbosworth/lightning",
 "name":"eclair",
@@ -19,10 +18,14 @@
 "publishConfig": {
 "registry": "https://registry.npmjs.org",
 "access": "public"
+}
 },
+"dependencies": {
+"bitcoinjs-lib": "^6.1.5",
+}
 {
-"network"
+"network",
 "mainnet":"https://mempool.space/",
-"testnet":"https://mempool.space/testnet4",
+"testnet4":"https://mempool.space/testnet4",
 "signet":"https://mempool.space/signet",
 }

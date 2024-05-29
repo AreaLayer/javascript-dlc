@@ -101,6 +101,7 @@ Import packages or modules for build your own application
 - [ ] BOLT12 support
 - [x] BOLT11 support
 - [ ] Node DLC compatible
+- [ ] Mutinynet
   
 ## Contributors
 

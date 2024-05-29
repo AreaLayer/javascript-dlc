@@ -100,6 +100,7 @@ Import packages or modules for build your own application
 - [ ] Testnet4
 - [ ] BOLT12 support
 - [x] BOLT11 support
+- [ ] Node DLC compatible
   
 ## Contributors
 

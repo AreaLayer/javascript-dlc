@@ -1,4 +1,4 @@
-const miniscript = require('miniscriptlib-js');
+const bitcoin = require('bitcoinjs-lib');
 
 // Mainnet or Testnet
 const NETWORK = bitcoin.networks.bitcoin;

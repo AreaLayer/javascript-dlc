@@ -1,6 +1,6 @@
 {
   "name": "javascript-dlc",
-  "version": "1.0.17-beta",
+  "version": "1.0.18-beta",
   "description": "Javascript DLC library",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Area Layer",
   "license": "MIT",
   "dependencies": {
-    "bitcoinjs-lib": "^6.1.5",
+    "bitcoinjs-lib": "^6.1.56,
     "bitcoinjs-message": "^6.1.5",
     "bip32": "^4.0.0",
     "bip39": "^3.0.0",

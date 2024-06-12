@@ -1,5 +1,13 @@
 # Versions
 
+See last releases and versions
+
+
+### V1.0.18 - Beta 
+
+**Highlights**
+
+- Fixed dependencies
 
 
 ### V1.0.17 - Beta 

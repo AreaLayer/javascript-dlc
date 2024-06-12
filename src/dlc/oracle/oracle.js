@@ -3,7 +3,7 @@ const ldk = require('ldk-garbagecollected');
 
 
 // Mainnet or Testnet
-const NETWORK = bitcoin.networks.bitcoin;
+const NETWORK = bitcoin.networks.testnett;
 
 class DLC {
   constructor() {

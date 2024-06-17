@@ -27,4 +27,5 @@ const rpcClient = bitcoin.Client(rpcConfig);
         const yesterdayInSeconds = latestTimeInSeconds - 24 * 60 * 60;
         const latestPriceDate = new Date(yesterdayInSeconds * 1000).toISOString().slice(0, 10);
 
-
+    }
+}

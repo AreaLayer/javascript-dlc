@@ -1,5 +1,5 @@
 {
-"Compenents",
+"Compenents": true,
 "EDCDSA": true,
 "Covenants": true,
 "Data": true,
@@ -14,5 +14,7 @@
 "Taproot Channel": true,
 "Miniscript": true,
 "Greenlight":true,
+"buildOptions": { "debug": true },
+"compilerOptions": { "target": "es2015", "module": "commonjs" }
 }
 

@@ -25,6 +25,10 @@
     "registry": "https://registry.npmjs.org",
     "access": "public"
   },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/AreaLayer/javascript-dlc.git"
+},
   "network": {
     "mainnet": "https://mempool.space/",
     "testnet4": "https://mempool.space/testnet4",

@@ -3,6 +3,13 @@
 See last releases and versions
 
 
+### V1.0.19 - Beta 
+
+**Highlights**
+
+- Fixed dependencies
+- Released NPM package
+
 ### V1.0.18 - Beta 
 
 **Highlights**

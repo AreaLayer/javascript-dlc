@@ -8,16 +8,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: '20.0'
-          registry-url: 'https://javascript-dlc.npmjs.org'
+          node-version: '20'
+          registry-url: 'https://registry.npmjs.org'  # Make sure this is correct for your needs
+
       - name: Install dependencies and build 🔧
         run: npm ci && npm run build
+
       - name: Publish package on NPM 📦
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-          DEFAULT: ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true
 
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true

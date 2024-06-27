@@ -4,7 +4,8 @@
   "description": "Javascript DLC library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"npm test\" && exit 1"
+    "test": "echo \"npm test\" && exit 1",
+    "start": "docker run -p 8080:8080 your-username/your-app-name:your-tag"
   },
   "author": "Area Layer",
   "license": "MIT",

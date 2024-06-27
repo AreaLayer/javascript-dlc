@@ -1,7 +1,14 @@
-FROM docker/dev-environments-javascript
-FROM --platform=arm64 docker/dev-environments-javascript:arm64
+# Use a base image for JavaScript development
+FROM docker/dev-environments-javascript:arm64
+
+# Clone the repository
 RUN git clone https://github.com/AreaLayer/javascript-dlc.git
-WORKDIR cd javascript-dlc & npm run start
-COPY javascript-dlc dev-environments-javascript/javascript-dlc
+
+# Set the working directory
+WORKDIR /javascript-dlc
+
+# Install dependencies
 RUN npm install
+
+# Start the application
 CMD ["npm", "start"]

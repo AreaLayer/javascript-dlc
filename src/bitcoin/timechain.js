@@ -99,5 +99,6 @@ class DLC {
   }
 
   printContractDetails() {
-    console.log('Contract ID:', this.contractId
-
+    console.log('Contract ID:', this.contractId)
+  };
+}

@@ -95,8 +95,8 @@ Import packages or modules for build your own application
 - [ ] Musig2
 - [ ] Minsiscript
 - [ ] NIP-88
-- [ ] TXO
-- [ ] RBF
+- [x] TXO
+- [x] RBF
 - [x] API for JS DLC by OpenAI (WIP)
 - [x] Dockerfile
 - [ ] Bitcoin Knots

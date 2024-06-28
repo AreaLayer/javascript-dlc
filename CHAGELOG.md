@@ -2,6 +2,15 @@
 
 See last releases and versions
 
+
+### V1.0.21 -  Beta 
+
+**Highlights**
+
+- Fixed dependencies
+- Initial TXO
+- Upgrade Roadmap
+
 ### V1.0.20- Beta 
 
 **Highlights**

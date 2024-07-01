@@ -99,7 +99,7 @@ Import packages or modules for build your own application
 - [x] RBF
 - [x] API for JS DLC by OpenAI (WIP)
 - [x] Dockerfile
-- [ ] Bitcoin Knots
+- [x] Bitcoin Knots
 - [ ] BOLT12 support
 - [x] BOLT11 support
 - [ ] Node DLC compatible

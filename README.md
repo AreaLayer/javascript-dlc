@@ -73,7 +73,7 @@ More information around [DLCs](https://www.dlc.wiki/)
 
 **Disclaimer:** Note this library isn't full tested. Use your own at risk
 
-[Documentaion](https://github.com/AreaLayer/javascript-dlc/blob/main/docs/run.md)
+[Documentation](https://github.com/AreaLayer/javascript-dlc/blob/main/docs/run.md)
 
 ## Library
 

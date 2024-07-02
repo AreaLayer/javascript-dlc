@@ -97,6 +97,7 @@ Import packages or modules for build your own application
 - [ ] NIP-88
 - [x] TXO
 - [x] RBF
+- [ ] CLI
 - [x] API for JS DLC by OpenAI (WIP)
 - [x] Dockerfile
 - [x] Bitcoin Knots

@@ -3,6 +3,15 @@
 See last releases and versions
 
 
+
+### V1.0.22 -  Beta 
+
+**Highlights**
+
+- Fixed dependencies
+- Added Bitcoin Knots and Core Lightning
+- Update Roadmap
+
 ### V1.0.21 -  Beta 
 
 **Highlights**

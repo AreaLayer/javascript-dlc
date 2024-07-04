@@ -103,6 +103,7 @@ Import packages or modules for build your own application
 - [x] Bitcoin Knots
 - [x] BOLT12 support
 - [x] BOLT11 support
+- [ ] Bindings (Rust, TS and C++)
 - [ ] Node DLC compatible
 - [ ] Mutinynet
   

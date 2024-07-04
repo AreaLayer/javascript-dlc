@@ -1,4 +1,3 @@
-// Import the necessary modules
 const invoice = require('lightning-invoice');
 const BOLT11Invoice = require('ldk-gargabecolleted');
 

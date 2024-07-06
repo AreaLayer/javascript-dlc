@@ -3,6 +3,6 @@
 - DLC
 - Bitcoin
 - Lightning (LDK, CLN, LND, Eclair)
-- Nostr
+- Nostr (experimental)
 - RPCs
 - BOLT11/BOLT12

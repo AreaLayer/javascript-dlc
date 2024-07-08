@@ -28,7 +28,7 @@
 ### DLCs with core functions:
 
 - Data
-- Covenants
+- Covenants (experimental)
 - EDCDSA
 - Event
 - Exc

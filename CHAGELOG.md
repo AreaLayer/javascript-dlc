@@ -3,6 +3,12 @@
 See last releases and versions
 
 
+### V1.0.23 -  Beta 
+
+**Highlights**
+
+- Fixed dependencies
+- Added BOLT12
 
 ### V1.0.22 -  Beta 
 

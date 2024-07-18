@@ -91,6 +91,7 @@ Import packages or modules for build your own application
 - [ ] Nakamoto version in 2024
 - [ ] Compatible with React and LDK react
 - [x] Oracle (WIP)
+- [x] Testnet4
 - [ ] Frost
 - [ ] Musig2
 - [ ] Miniscript

@@ -3,3 +3,4 @@ import { greet as cppGreet } from '../cpp_wasm';
 
 console.log(rustGreet('Rust'));
 console.log(cppGreet('C++'));
+console.log(tsGreet('TS'));

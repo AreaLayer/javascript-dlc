@@ -8,4 +8,12 @@ OP_IF ${eventType} OP_ELSE OP_FALSE OP_ENDIF
 
 # ECDCSA script
 
-# curve ellpicit scirpt
+OP_IF ${eventType} OP_ELSE OP_FALSE OP_ENDIF
+
+# curve ed25519 script
+
+OP_IF ${eventType} OP_ELSE OP_FALSE OP_ENDIF
+
+# curve secp256k1 script
+
+OP_IF ${eventType} OP_ELSE OP_FALSE OP_ENDIF

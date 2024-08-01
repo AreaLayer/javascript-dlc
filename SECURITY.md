@@ -24,4 +24,5 @@ currently being supported with security updates.
 | v1.0.21-beta   | :white_check_mark: |
 | v1.0.22-beta   | :white_check_mark: |
 | v1.0.23-beta   | :white_check_mark: |
+| v1.0.24-beta   | :white_check_mark: |
 

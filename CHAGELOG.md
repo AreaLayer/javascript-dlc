@@ -2,6 +2,12 @@
 
 See last releases and versions
 
+## V1.0.24 -  Beta
+
+- Upgrade dependencies (Curve Elliptic)
+- Upgrade Nodejs
+- Upgrade WIF
+- Upgrade BOLT12
 
 ### V1.0.23 -  Beta 
 

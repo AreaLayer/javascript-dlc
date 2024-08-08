@@ -90,4 +90,9 @@ async function runDLC() {
 runDLC().catch(console.error);
 
 // Bitcoin script 
-const script = Script.fromOpCode(settlementTXOpCode);          const opCode = await. script.opcode(OP_CTV);     await script.broadcast(opCode.setScript().toScript());
+const script = Script.fromOps([OP_CTV]);  // Assuming fromOps takes an array of opcodes.
+const tx = new TransactionBuilder();
+tx.addInput('prev-tx-hash', 0);  // Example previous transaction input.
+tx.addOutput(script, amount);    // Set your custom script as the output.
+const txHex = tx.build().toHex();
+await broadcastTransaction(txHex);  // Assuming broadcastTransaction is your method to send the tx.

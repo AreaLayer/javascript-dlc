@@ -3,9 +3,9 @@ const { ChannelManager, PaymentStatus, Invoice } = require('ldk-node-js');
 
 
 // Mainnet or Testnet
-const NETWORK = bitcoin.networks.bitcoin;
+const NETWORK = testnet.networks.bitcoin;
 
-// Set up BDK wallet
+// Set up Bitcoin wallsr
 const wallet = new Wallet('testnet', 'path/to/wallet.dat');
 
 // Connect to Electrum server
@@ -89,4 +89,5 @@ async function runDLC() {
 // Start the DLC
 runDLC().catch(console.error);
 
-
+// Bitcoin script 
+const script = Script.fromOpCode(settlementTXOpCode);          const opCode = await. script.opcode(OP_CTV);     await script.broadcast(opCode.setScript().toScript());

@@ -5,7 +5,7 @@ const { ChannelManager, PaymentStatus, Invoice } = require('ldk-node-js');
 // Mainnet or Testnet
 const NETWORK = testnet.networks.bitcoin;
 
-// Set up Bitcoin wallsr
+// Set up Bitcoin wallet
 const wallet = new Wallet('testnet', 'path/to/wallet.dat');
 
 // Connect to Electrum server

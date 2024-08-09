@@ -90,7 +90,7 @@ async function runDLC() {
 runDLC().catch(console.error);
 
 // Bitcoin script 
-const script = Script.fromOps([OP_CTV]);  // Assuming fromOps takes an array of opcodes.
+const script = Script.fromOps([OP_CHECKTEMPLATEVERIFY]);  // Assuming fromOps takes an array of opcodes.
 const tx = new TransactionBuilder();
 tx.addInput('prev-tx-hash', 0);  // Example previous transaction input.
 tx.addOutput(script, amount);    // Set your custom script as the output.

@@ -1,0 +1,8 @@
+/sysroot/home/rafael/Documents/DLC devlopment/javascript-dlc/target/debug/deps/libwasm_bindgen_macro_support-f7b88af33348257d.rmeta: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-macro-support-0.2.92/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-macro-support-0.2.92/src/parser.rs
+
+/sysroot/home/rafael/Documents/DLC devlopment/javascript-dlc/target/debug/deps/libwasm_bindgen_macro_support-f7b88af33348257d.rlib: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-macro-support-0.2.92/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-macro-support-0.2.92/src/parser.rs
+
+/sysroot/home/rafael/Documents/DLC devlopment/javascript-dlc/target/debug/deps/wasm_bindgen_macro_support-f7b88af33348257d.d: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-macro-support-0.2.92/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-macro-support-0.2.92/src/parser.rs
+
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-macro-support-0.2.92/src/lib.rs:
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-macro-support-0.2.92/src/parser.rs:

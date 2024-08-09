@@ -1,0 +1,9 @@
+/sysroot/home/rafael/Documents/DLC devlopment/javascript-dlc/target/debug/deps/libbumpalo-c9a90cca971a1a1a.rmeta: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/alloc.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/../README.md
+
+/sysroot/home/rafael/Documents/DLC devlopment/javascript-dlc/target/debug/deps/libbumpalo-c9a90cca971a1a1a.rlib: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/alloc.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/../README.md
+
+/sysroot/home/rafael/Documents/DLC devlopment/javascript-dlc/target/debug/deps/bumpalo-c9a90cca971a1a1a.d: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/alloc.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/../README.md
+
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/lib.rs:
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/alloc.rs:
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/bumpalo-3.16.0/src/../README.md:

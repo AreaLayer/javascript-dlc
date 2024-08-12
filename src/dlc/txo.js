@@ -1,5 +1,10 @@
-const bitcoin = require('bitcoinjs-lib');
+import { Sign, Schonnor, UTXO} from 'bitcoinjs-lib';
 
-const txo = 
+const sign = new Sign();
 
-const contract = 
+const utxo = new UTXO();
+
+const schonnor = new Schonnor();
+
+export { sign, utxo, schonnor };
+

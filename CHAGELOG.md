@@ -2,6 +2,12 @@
 
 See last releases and versions
 
+## V1.0.25 -  Beta
+
+- Fixed imports for LDK
+- Removed BDK to Bitcoinjs-lib
+
+
 ## V1.0.24 -  Beta
 
 - Upgrade dependencies (Curve Elliptic)

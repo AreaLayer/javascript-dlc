@@ -2,7 +2,7 @@
 import { LDK } from 'ldk';
 import { Secp256k1, Network, OutPoint, Txid, Script } from 'ldk';
 
-async function LDK () {
+async function LDK() {
   // Initialize LDK
   const ldk = LDK.create(Network.Testnet);
 
@@ -18,70 +18,76 @@ async function LDK () {
     sats: Number,
     pair: String,
     peers: String,
-  
   };
 
   const contractDescriptor = {
+    // Add contract descriptor properties here
+  };
+
+  async function DLC() {
+    // Create and sign DLC transaction
+    const contractTxId = Txid.fromHex('previous_transaction_id');
+    const fundingTxOutpoint = new OutPoint(contractTxId, 0);
+    const fundAmount = 10000000; // Amount in satoshis
+
+    const oracleSigs = {
+      // Add oracle signatures here
+    };
+
+    const partyASigs = {
+      // Add party A signatures here
+    };
+
+    const partyBSigs = {
+      // Add party B signatures here
+    };
+
+    const contractTx = await ldk.createDlcTransactions({
+      contractDescriptor,
+      oracleInfo,
+      fundingTxOutpoint,
+      fundAmount,
+      oracleSigs,
+      partyASigs,
+      partyBSigs,
+    });
     
-async function DLC() {
+    // Interact with the DLC contract
+    const dlcContract = ldk.loadDlcContract(contractDescriptor);
 
-  // Create and sign DLC transaction
-  const contractTxId = Txid.fromHex('previous_transaction_id');
-  const fundingTxOutpoint = new OutPoint(contractTxId, 0);
-  const fundAmount = 10000000; // Amount in satoshis
+    const oracleSignature = {
+      // ... oracle signature ...
+    };
 
-  const oracleSigs = {
-  };
+    const oracleEvent = {
+      // ... oracle event ...
+    };
 
-  const partyASigs = {
-  };
+    const partyASignedOutcome = {
+      // ... party A signed outcome ...
+    };
 
-  const partyBSigs = {
-  };
+    const partyBDispute = {
+      // ... party B dispute ...
+    };
 
-  const contractTx = await ldk.createDlcTransactions({
-    contractDescriptor,
-    oracleInfo,
-    fundingTxOutpoint,
-    fundAmount,
-    oracleSigs,
-    partyASigs,
-    partyBSigs,
-  });
-  
-  // Interact with the DLC contract
-  const dlcContract = ldk.loadDlcContract(contractDescriptor);
+    // Update the contract state based on different events
+    dlcContract.updateContractFromOracleSignature(oracleSignature, oracleEvent);
+    dlcContract.updateContractFromPartyASignedOutcome(partyASignedOutcome);
+    dlcContract.updateContractFromPartyBDispute(partyBDispute);
 
-  const oracleSignature = {
-    // ... oracle signature ...
-  };
+    // ... Other interactions and contract state updates ...
 
-  const oracleEvent = {
-    // ... oracle event ...
-  };
+    // Closing the contract and settling
+    const closingTx = await dlcContract.close();
+    // Broadcast the closing transaction
+    // ...
 
-  const partyASignedOutcome = {
-    // ... party A signed outcome ...
-  };
+    // Cleanup resources
+    ldk.destroy();
+  }
 
-  const partyBDispute = {
-    // ... party B dispute ...
-  };
-
-  // Update the contract state based on different events
-  dlcContract.updateContractFromOracleSignature(oracleSignature, oracleEvent);
-  dlcContract.updateContractFromPartyASignedOutcome(partyASignedOutcome);
-  dlcContract.updateContractFromPartyBDispute(partyBDispute);
-
-  // ... Other interactions and contract state updates ...
-
-  // Closing the contract and settling
-  const closingTx = await dlcContract.close();
-  // Broadcast the closing transaction
-  // ...
-
-  // Cleanup resources
-  ldk.destroy();
+  await DLC();
 }
 
 main().catch(console.error);

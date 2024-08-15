@@ -1,4 +1,4 @@
-const bitcoin = require('bitcoin-js');
+const bitcoin = require('bitcoinjs-lib');
 const ldk = require('ldk-garbagecollected');
 
 

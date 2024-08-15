@@ -1,12 +1,11 @@
-const BDK = require('bdk-ffi');
-const LDK = require('ldk-garbagecollected');
+
+// Install Bitcoin and LDK using npm or yarn
+const { ElectrumNetwork, Wallet, Psbt } = require('bitcoin-js');
+const { ChannelManager, PaymentStatus, Invoice } = require('ldk-garbagecollected');
 
 // Mainnet or Testnet
 const NETWORK = bitcoin.networks.bitcoin; // You can switch to testnet, regtest or signet
 
-// Install BDK and LDK using npm or yarn
-const { ElectrumNetwork, Wallet, Psbt } = require('bitcoin-js');
-const { ChannelManager, PaymentStatus, Invoice } = require('ldk-node-js');
 
 // Set up BDK wallet
 const wallet = new Wallet('testnet', 'path/to/wallet.dat');

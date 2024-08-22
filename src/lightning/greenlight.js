@@ -1,3 +1,5 @@
+import { Bech32, addInput, addOutput, createTransaction } from 'bitcoinjs-lib';
+
 const bitcoin = require('bitcoinjs-lib');
 const { GreenlightApiClient } = require('@greenlight/gl-client-js');
 

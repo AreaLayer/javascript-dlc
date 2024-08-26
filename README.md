@@ -92,7 +92,7 @@ Import packages or modules for build your own application
 
 ## Roadmap
 
-- [ ] Nakamoto version in 2024
+- [ ] Nakamoto version in 2025
 - [ ] Compatible with React and LDK react
 - [x] Oracle (WIP)
 - [x] Testnet4

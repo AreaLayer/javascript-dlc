@@ -18,6 +18,7 @@ async function LDK() {
     sats: Number,
     pair: String,
     peers: String,
+    expiration: Number,
   };
 
   const contractDescriptor = {

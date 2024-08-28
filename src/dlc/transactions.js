@@ -1,11 +1,11 @@
 const { ElectrumNetwork, Wallet, Psbt } = require('bitcoin-js');
-const { ChannelManager, PaymentStatus, Invoice } = require('ldk-node-js');
+const { ChannelManager, PaymentStatus, Invoice } = require('ldk-garbagecollected');
 
 
 // Mainnet or Testnet
 const NETWORK = bitcoin.networks.bitcoin; // Switch to bitcoin.networks.testnet for testnet
 
-// Set up BDK wallet
+// Set up Bitcoin wallet
 const wallet = new Wallet('testnet', 'path/to/wallet.dat');
 
 // Connect to Electrum server

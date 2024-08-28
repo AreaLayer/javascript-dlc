@@ -3,9 +3,9 @@ const { ChannelManager, PaymentStatus, Invoice } = require('ldk-node-js');
 
 
 // Mainnet or Testnet
-const NETWORK = bitcoin.networks.bitcoin;
+const NETWORK = testnet.networks.bitcoin;
 
-// Set up BDK wallet
+// Set up Bitcoin wallet
 const wallet = new Wallet('testnet', 'path/to/wallet.dat');
 
 // Connect to Electrum server
@@ -89,4 +89,10 @@ async function runDLC() {
 // Start the DLC
 runDLC().catch(console.error);
 
-
+// Bitcoin script 
+const script = Script.fromOps([OP_CHECKTEMPLATEVERIFY]);  // Assuming fromOps takes an array of opcodes.
+const tx = new TransactionBuilder();
+tx.addInput('prev-tx-hash', 0);  // Example previous transaction input.
+tx.addOutput(script, amount);    // Set your custom script as the output.
+const txHex = tx.build().toHex();
+await broadcastTransaction(txHex);  // Assuming broadcastTransaction is your method to send the tx.

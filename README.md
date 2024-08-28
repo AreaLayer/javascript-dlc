@@ -1,5 +1,11 @@
 # Javascript DLC ⚡ 👁️
 
+[![Publish to NPM](https://github.com/AreaLayer/javascript-dlc/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/AreaLayer/javascript-dlc/actions/workflows/npm-publish.yml)
+[![Bitcoin-only](https://img.shields.io/badge/bitcoin-only-FF9900?logo=bitcoin)](https://twentyone.world)
+[![LN](https://img.shields.io/badge/lightning-792EE5?logo=lightning)](https://mempool.space/lightning)
+[![Nostr](https://img.shields.io/badge/nostr-only-FF9900?)]((https://user-images.githubusercontent.com/99301796/223592277-34058d0e-af30-411d-8dfe-87c42dacdcf2.png))
+
+
 >A Javascript library for working with [Discreet Log Contracts](https://adiabat.github.io/dlc.pdf).
 
 **Contributions are welcome**
@@ -7,8 +13,6 @@
 ⚠️**Beta Software and WIP**
 
 ⚠️**Use small amount**
-
-[![Publish to NPM](https://github.com/AreaLayer/javascript-dlc/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/AreaLayer/javascript-dlc/actions/workflows/npm-publish.yml)
 
 ### Standard Compliance and library
 
@@ -88,7 +92,7 @@ Import packages or modules for build your own application
 
 ## Roadmap
 
-- [ ] Nakamoto version in 2024
+- [ ] Nakamoto version in 2025
 - [ ] Compatible with React and LDK react
 - [x] Oracle (WIP)
 - [x] Testnet4
@@ -105,6 +109,8 @@ Import packages or modules for build your own application
 - [x] BOLT12 support
 - [x] BOLT11 support
 - [x] Bindings (Rust, TS and C++) [ Demo/WIP ]
+- [ ] LNURL
+- [ ] Breez SDK compatible
 - [ ] Node DLC compatible
 - [ ] Mutinynet
 - [ ] DLC message 

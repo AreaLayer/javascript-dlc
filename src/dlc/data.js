@@ -1,12 +1,12 @@
 // Install BDK and LDK using npm or yarn
-const { ElectrumNetwork, Wallet, Psbt } = require('bitcoin-js');
+const { ElectrumNetwork, Wallet, Psbt } = require('bitcoinjs-lib');
 const { ChannelManager, PaymentStatus, Invoice } = require('ldk-node-js');
 
 
 // Mainnet or Testnet
 const NETWORK = bitcoin.networks.bitcoin;
 
-// Set up BDK wallet
+// Set up Bitcoin wallet
 const wallet = new Wallet('testnet', 'path/to/wallet.dat');
 
 // Connect to Electrum server

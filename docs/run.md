@@ -37,3 +37,12 @@ TLS.cert=xxx
 GRPC=xxx
 Contract_info=xxx
 Input_blinding_key=xxx
+```
+### NPM 
+
+npm install javascript-dlc
+
+### Run
+
+npm run start
+

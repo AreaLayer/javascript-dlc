@@ -1,2 +1,7 @@
 ## Covenants 
-## op cat
+
+OP_CHECKTEMPLATEVERIFY
+
+## op sha256
+
+OP_SHA256

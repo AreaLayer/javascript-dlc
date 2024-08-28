@@ -1,0 +1,7 @@
+/sysroot/home/rafael/Documents/DLC devlopment/javascript-dlc/target/debug/deps/libweb_sys-fb1b7b40beac14ff.rmeta: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.70/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.70/src/features/mod.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.70/src/features/gen_console.rs
+
+/sysroot/home/rafael/Documents/DLC devlopment/javascript-dlc/target/debug/deps/web_sys-fb1b7b40beac14ff.d: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.70/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.70/src/features/mod.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.70/src/features/gen_console.rs
+
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.70/src/lib.rs:
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.70/src/features/mod.rs:
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.70/src/features/gen_console.rs:

@@ -1,5 +1,8 @@
+// Import everything necessary from wasm_bindgen
 use wasm_bindgen::prelude::*;
-use wasm_bindgen::web_sys::console;
+
+// Import the console logging functionality from the web_sys crate
+use web_sys::console;
 
 #[wasm_bindgen]
 pub fn greet(name: &str) -> String {

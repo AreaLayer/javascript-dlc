@@ -21,8 +21,8 @@
     "tiny-secp256k1": "^2.0.0",
     "wif": "^5.0.0",
     "nostr-dev-kit":"^2.10.0",
-    "react-native-ldk": "^0.0.150"
-  },
+    "@synonymdev/react-native-ldk": "^0.0.150"
+    },
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
     "access": "public"

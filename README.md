@@ -108,9 +108,9 @@ Import packages or modules for build your own application
 - [x] Bitcoin Knots
 - [x] BOLT12 support
 - [x] BOLT11 support
+- [x] Bindings (Rust, TS and C++) [ Demo/WIP ]
 - [ ] LNURL
 - [ ] Breez SDK compatible
-- [ ] Bindings (Rust, TS and C++)
 - [ ] Node DLC compatible
 - [ ] Mutinynet
 - [ ] DLC message 

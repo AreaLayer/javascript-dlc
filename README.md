@@ -103,12 +103,11 @@ Import packages or modules for build your own application
 - [x] TXO
 - [x] RBF
 - [ ] CLI
-- [x] API for JS DLC by OpenAI (WIP)
 - [x] Dockerfile
 - [x] Bitcoin Knots
 - [x] BOLT12 support
 - [x] BOLT11 support
-- [x] Bindings (Rust, TS and C++) [ Demo/WIP ]
+- [x] Bindings (Rust, TS and C++) 
 - [ ] LNURL
 - [ ] Breez SDK compatible
 - [ ] Node DLC compatible

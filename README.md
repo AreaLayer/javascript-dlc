@@ -108,7 +108,7 @@ Import packages or modules for build your own application
 - [x] BOLT12 support
 - [x] BOLT11 support
 - [x] Bindings (Rust, TS and C++) 
-- [ ] LNURL
+- [x] LNURL
 - [ ] Breez SDK compatible
 - [ ] Node DLC compatible
 - [ ] Mutinynet

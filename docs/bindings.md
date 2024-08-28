@@ -163,7 +163,3 @@
 2. **Open the Browser**
    - Navigate to `http://localhost:8080` to see your output.
 
-### **Conclusion**
-
-You now have a setup that integrates Rust with WASM, TypeScript, and C++. You can extend this basic framework to include more complex DLC logic, test it, and deploy it as needed.
-

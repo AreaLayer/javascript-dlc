@@ -2,6 +2,11 @@
 
 See last releases and versions
 
+## V1.0.26 -  Beta
+
+- Fixed bugs and issues
+- Added bindings for Rust, C++ and TS
+
 ## V1.0.25 -  Beta
 
 - Fixed imports for LDK

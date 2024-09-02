@@ -112,7 +112,8 @@ Import packages or modules for build your own application
 - [ ] Breez SDK compatible
 - [ ] Node DLC compatible
 - [ ] Mutinynet
-- [ ] DLC message 
+- [ ] DLC message
+- [x] WASM 
   
 ## Contributors
 

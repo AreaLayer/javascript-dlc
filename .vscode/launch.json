@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "/sysroot/home/rafael/Documents/DLC devlopment/javascript-dlc/bindings/libraries/c++",
+      "program": "/sysroot/home/rafael/Documents/DLC devlopment/javascript-dlc/bindings/libraries/c++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -1,0 +1,1 @@
+export { InboundHTLCStateDetails } from "../bindings.mjs";

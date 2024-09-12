@@ -1,1 +1,0 @@
-export { Network } from "../bindings.mjs";

@@ -94,27 +94,14 @@ Import packages or modules for build your own application
 ## Roadmap
 
 - [ ] Nakamoto version in 2025
-- [ ] Compatible with React and LDK react
 - [x] Oracle (WIP)
-- [x] Testnet4
+- [x] Compile code
 - [ ] Frost
 - [ ] Musig2
 - [ ] Miniscript
-- [ ] NIP-88
-- [x] TXO
-- [x] RBF
 - [ ] CLI
-- [x] Dockerfile
-- [x] Bitcoin Knots
-- [x] BOLT12 support
-- [x] BOLT11 support
-- [x] Bindings (Rust, TS and C++) 
-- [x] LNURL
 - [ ] Breez SDK compatible
-- [ ] Node DLC compatible
-- [ ] Mutinynet
 - [ ] DLC message
-- [x] WASM 
   
 ## Contributors
 

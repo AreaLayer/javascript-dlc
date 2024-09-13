@@ -99,7 +99,7 @@ Import packages or modules for build your own application
 - [ ] Frost
 - [ ] Musig2
 - [ ] Miniscript
-- [ ] CLI
+- [x] CLI
 - [ ] Breez SDK compatible
 - [ ] DLC message
   

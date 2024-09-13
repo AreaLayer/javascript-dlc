@@ -22,7 +22,12 @@
     "wif": "^5.0.0",
     "@nostr-dev-kit/ndk": "^2.10.0",
     "@synonymdev/react-native-ldk": "^0.0.152",
-    "commander": "^12.1.0"
+    "commander": "^12.1.0",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.21.0",
+    "@babel/plugin-transform-class-properties": "^7.21.0",
+    "@babel/plugin-transform-optional-chaining": "^7.21.0",
+    "rimraf": "^4.0.0",
+    "glob": "^10.4.5"
     },
   "publishConfig": {
     "registry": "https://registry.npmjs.org",

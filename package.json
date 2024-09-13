@@ -26,8 +26,8 @@
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.21.0",
     "@babel/plugin-transform-class-properties": "^7.21.0",
     "@babel/plugin-transform-optional-chaining": "^7.21.0",
-    "rimraf": "^4.0.0",
-    "glob": "^10.4.5"
+    "rimraf": "^6.0.1",
+    "glob": "^11.0.0"
     },
   "publishConfig": {
     "registry": "https://registry.npmjs.org",

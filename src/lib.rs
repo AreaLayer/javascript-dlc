@@ -13,3 +13,8 @@ pub fn greet(name: &str) -> String {
 pub fn log(msg: &str) {
     console::log_1(&msg.into());
 }
+
+#[wasm_bindgen]
+pub fn add(a: i32, b: i32) -> i32 {
+    a + b
+}

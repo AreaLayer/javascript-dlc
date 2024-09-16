@@ -2,6 +2,13 @@
 
 See last releases and versions
 
+## V1.0.27 -  Beta
+
+- Fixed bugs
+- Initial CLI
+- Upgrade roadmap
+- Upgrade LDK and others dependencies
+
 ## V1.0.26 -  Beta
 
 - Fixed bugs and issues

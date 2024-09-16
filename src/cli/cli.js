@@ -1,15 +1,15 @@
 #!/usr/bin/env node
 
 const { program } = require('commander');
-const { myLibraryFunction } = require('./lib');  // Import your library functions here
+const { lightning_channel } = require('./lightning_channel');
 
 program
   .version('1.0.0')
-  .description('A CLI for My Library')
-  .option('-n, --name <name>', 'Provide a name')
+  .description('A CLI for Javascript')
+  .option('-n, --ligthnin <option', 'Lightning Channel')
   .action((options) => {
-    console.log('Name:', options.name);
-    myLibraryFunction(options.name); // Call the library function
+    console.log('Lightning Channel:', options.name);
+    myLibraryFunction(options.lightning_channel); // Call the library function
   });
 
 program.parse(process.argv);

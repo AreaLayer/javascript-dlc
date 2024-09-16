@@ -15,3 +15,5 @@ const Keygen = {
     KeygenError_InvalidKey
 
 }
+
+module.exports = Keygen;

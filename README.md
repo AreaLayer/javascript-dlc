@@ -97,9 +97,9 @@ Import packages or modules for build your own application
 - [ ] Nakamoto version in 2025
 - [x] Oracle (WIP)
 - [x] Compile code
-- [ ] Frost
+- [x] Frost
 - [ ] Musig2
-- [ ] Miniscript
+- [x] Miniscript
 - [x] CLI
 - [ ] Breez SDK compatible
 - [ ] DLC message

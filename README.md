@@ -101,7 +101,7 @@ Import packages or modules for build your own application
 - [ ] Musig2
 - [x] Miniscript
 - [x] CLI
-- [ ] Breez SDK compatible
+- [x] Breez SDK compatible
 - [ ] DLC message
   
 ## Contributors

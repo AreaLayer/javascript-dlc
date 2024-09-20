@@ -1,4 +1,4 @@
-const {BlockHash,, RPC,Block, TXId, latestTimeUTC} = require('bitcoinjs-lib');
+const {BlockHash,RPC,Block, TXId, latestTimeUTC} = require('bitcoinjs-lib');
 const axios = require('axios');
 
 console.log("UTXOracle version 7\n");
@@ -22,10 +22,12 @@ const rpcClient = bitcoin.Client(rpcConfig);
         const latestTimeInSeconds = block.time;
         const latestTimeDatetime = new Date(latestTimeInSeconds * 1000).toUTCString();
         const latestTimeUTC = latestTimeDatetime.slice(0, -4);
-        const latestPriceData = await.priceData.getblockCount();
+        const latestPriceData = await priceData.getblockCount();
 
         const yesterdayInSeconds = latestTimeInSeconds - 24 * 60 * 60;
         const latestPriceDate = new Date(yesterdayInSeconds * 1000).toISOString().slice(0, 10);
 
+    } catch (error) {
+        console.error("An error occurred:", error);
     }
-}
+})();

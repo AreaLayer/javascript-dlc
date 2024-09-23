@@ -1,4 +1,4 @@
-const {UTXO, Payment, P2TR}, from 'bitcoinjs-lib',
+const {UTXO, Payment, P2TR} = require('bitcoinjs-lib');
 
 const oracle = {
     getUTXO: async (txid, vout) => {
@@ -13,7 +13,6 @@ const oracle = {
         const p2tr = await P2TR.fromUTXO(utxo)
         return p2tr
     }
-
 }
 const {getUTXO, getPayment, getP2TR} = oracle
 confirmation.getUTXO = getUTXO;

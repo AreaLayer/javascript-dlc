@@ -26,7 +26,7 @@
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.21.0",
     "@babel/plugin-transform-class-properties": "^7.21.0",
     "@babel/plugin-transform-optional-chaining": "^7.21.0",
-    "@breeztech/react-native-breez-sdk": "^0.5.2",
+    "@breeztech/react-native-breez-sdk": "^0.6.1",
     "rimraf": "^6.0.1",
     "glob": "^11.0.0"
     },

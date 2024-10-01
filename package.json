@@ -20,7 +20,7 @@
     "secp256k1": "^5.0.0",
     "tiny-secp256k1": "^2.0.0",
     "wif": "^5.0.0",
-    "@nostr-dev-kit/ndk": "^2.10.0",
+    "@nostr-dev-kit/ndk": "^2.10.1",
     "@synonymdev/react-native-ldk": "^0.0.153",
     "commander": "^12.1.0",
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.21.0",

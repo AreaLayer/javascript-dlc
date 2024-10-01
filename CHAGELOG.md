@@ -2,6 +2,13 @@
 
 See last releases and versions
 
+## V1.0.28 -  Beta
+
+- Fixed bugs
+- Breez SDK Greenlight compatibility
+- Upgrade Roadmap
+- Upgrade NDK
+
 ## V1.0.27 -  Beta
 
 - Fixed bugs

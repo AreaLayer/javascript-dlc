@@ -23,9 +23,9 @@
     "@nostr-dev-kit/ndk": "^2.10.1",
     "@synonymdev/react-native-ldk": "^0.0.153",
     "commander": "^12.1.0",
-    "@babel/plugin-transform-nullish-coalescing-operator": "^7.25.7",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.25.8",
     "@babel/plugin-transform-class-properties": "^7.25.7",
-    "@babel/plugin-transform-optional-chaining": "^7.25.7",
+    "@babel/plugin-transform-optional-chaining": "^7.25.8",
     "@breeztech/react-native-breez-sdk": "^0.6.1",
     "rimraf": "^6.0.1",
     "glob": "^11.0.0"

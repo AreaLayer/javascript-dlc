@@ -76,7 +76,7 @@ More information around [DLCs](https://www.dlc.wiki/)
 
 ## Run Javascript DLC
 
-**Disclaimer:** Note this library isn't full tested. Use your own at risk
+**Disclaimer:** Note this library isn't fully tested. Use your own at risk
 
 [Documentation](https://github.com/AreaLayer/javascript-dlc/blob/main/docs/run.md)
 

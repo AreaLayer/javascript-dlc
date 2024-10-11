@@ -7,7 +7,7 @@ Run the DLC in your lightning node
 - Lightning Node (Unannounced integration)
 - NPM
 - Git
-- Bitoin Core
+- Bitcoin Core
 - Bitcoinjs-lib
 - Lightning Node (optional)
 
@@ -21,7 +21,7 @@ git clone https://github.com/AreaLayer/javascript-dlc.git
 
 ### Install via npm
 
-You need have already installed npm
+You need to have already installed npm
 
 ```npm
 npm install javascript-dlc

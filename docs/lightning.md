@@ -1,4 +1,4 @@
-# Lightning implemenations support ⚡
+# Lightning implementations support ⚡
 
 See Lightning implementations compatible
 

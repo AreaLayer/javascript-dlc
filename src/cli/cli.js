@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
 const { program } = require('commander');
-const { lightning_channel } = require('./lightning_channel');
+require('./lightning_channel');
 
 program
-  .version('1.0.0')
+  .version('1.0-15-beta')
   .description('A CLI for Javascript')
   .option('-n, --ligthning <option', 'Lightning Channel')
   .option('-n, --dlc <option>', 'DLC')
@@ -17,3 +17,4 @@ program
   });
 
 program.parse(process.argv);
+

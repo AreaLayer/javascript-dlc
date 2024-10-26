@@ -103,7 +103,7 @@ Import packages or modules for build your own application
 - [x] CLI
 - [x] Breez SDK compatible
 - [ ] DLC message
-- [ ] Ark and Cashu compatible
+- [ ] Ark and Cashu compatible (Basic)
   
 ## Contributors
 

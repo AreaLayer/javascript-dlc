@@ -64,10 +64,6 @@
 - Signet
 - Regtest
 
-## API
-
-- OpenAI (experimental)
-
 ## Status
 
 The implementation is mainly based on the [DLC specifications](https://github.com/discreetlogcontracts/dlcspecs)

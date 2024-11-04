@@ -92,12 +92,7 @@ Import packages or modules for build your own application
 
 - [ ] Nakamoto version in 2025
 - [x] Oracle (WIP)
-- [x] Compile code
-- [x] Frost
 - [ ] Musig2
-- [x] Miniscript
-- [x] CLI
-- [x] Breez SDK compatible
 - [ ] DLC message
 - [ ] Ark and Cashu compatible (Basic)
   

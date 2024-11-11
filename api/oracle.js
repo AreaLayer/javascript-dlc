@@ -15,12 +15,6 @@ const oracle = {
         return p2tr
     }
 }
-const OracleInfo = 
-{
-    getUTXO,
-    getPayment,
-    getP2TR
-}
 
 const {getUTXO, getPayment, getP2TR} = oracle
 confirmation.getUTXO = getUTXO;

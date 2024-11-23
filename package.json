@@ -14,7 +14,7 @@
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.25.9",
     "@babel/plugin-transform-optional-chaining": "^7.25.9",
     "@breeztech/react-native-breez-sdk": "^0.6.2",
-    "@nostr-dev-kit/ndk": "^2.10.6",
+    "@nostr-dev-kit/ndk": "^2.10.7",
     "@synonymdev/react-native-ldk": "^0.0.153",
     "bip32": "^4.0.0",
     "bip39": "^3.1.0",

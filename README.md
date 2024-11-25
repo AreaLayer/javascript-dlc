@@ -59,7 +59,6 @@
 ### Bitcoin Network (by default)
 
 - Mainnet
-- Testne3
 - Testnet4
 - Signet
 - Regtest

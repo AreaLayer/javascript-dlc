@@ -93,7 +93,7 @@ Import packages or modules for build your own application
 - [x] Oracle (WIP)
 - [ ] Musig2
 - [ ] DLC message
-- [ ] Ark and Cashu compatible (Basic)
+- [ ] Ark compatible (Basic)
   
 ## Contributors
 

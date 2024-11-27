@@ -2,6 +2,11 @@
 
 See last releases and versions
 
+## V1.0.30 -  Beta
+
+- Update general dependencies
+- Fixed bugs and issues
+
 ## V1.0.29 -  Beta
 
 - Fixed typos and bugs

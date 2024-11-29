@@ -15,7 +15,7 @@
     "@babel/plugin-transform-optional-chaining": "^7.25.9",
     "@breeztech/react-native-breez-sdk": "^0.6.4",
     "@nostr-dev-kit/ndk": "^2.10.7",
-    "@synonymdev/react-native-ldk": "^0.0.153",
+    "@synonymdev/react-native-ldk": "^0.0.154",
     "bip32": "^4.0.0",
     "bip39": "^3.1.0",
     "bip66": "^2.0.0",

@@ -1,5 +1,8 @@
-# Use a Node.js base image for JavaScript development
+# Use a base image for JavaScript development
 FROM node:lts-alpine
+
+# Install required dependencies, including git
+RUN apk add --no-cache git
 
 # Clone the repository
 RUN git clone https://github.com/AreaLayer/javascript-dlc.git

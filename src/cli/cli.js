@@ -16,5 +16,9 @@ program
     myLibraryFunction(options.lightning_channel); // Call the library function
   });
 
+  // Define the library function
+  function myLibraryFunction(option) {
+  console.log('Library function called with option:', option);
+}
 program.parse(process.argv);
 

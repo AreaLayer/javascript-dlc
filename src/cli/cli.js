@@ -4,7 +4,7 @@ const { program } = require('commander');
 require('./lightning_channel');
 
 program
-  .version('1.0-15-beta')
+  .version('1.0-32-beta')
   .description('A CLI for Javascript')
   .option('-n, --ligthning <option', 'Lightning Channel')
   .option('-n, --dlc <option>', 'DLC')

@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/plugin-transform-class-properties": "^7.25.9",
-    "@babel/plugin-transform-nullish-coalescing-operator": "^7.25.9",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.26.5",
     "@babel/plugin-transform-optional-chaining": "^7.25.9",
     "@breeztech/react-native-breez-sdk": "^0.6.6",
     "@nostr-dev-kit/ndk": "^2.11.0",

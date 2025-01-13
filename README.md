@@ -94,7 +94,7 @@ Import packages or modules for build your own application
 - [x] Oracle 
 - [x] Musig2
 - [x] DLC message
-- [ ] Ark compatible (Basic)
+- [x] Ark compatible (Basic)
   
 ## Contributors
 

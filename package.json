@@ -16,6 +16,7 @@
     "@breeztech/react-native-breez-sdk": "^0.6.6",
     "@nostr-dev-kit/ndk": "^2.11.0",
     "@synonymdev/react-native-ldk": "^0.0.154",
+    "bip-schnorr": "^0.6.7",
     "bip32": "^4.0.0",
     "bip39": "^3.1.0",
     "bip66": "^2.0.0",

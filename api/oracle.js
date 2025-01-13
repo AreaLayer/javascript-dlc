@@ -26,3 +26,7 @@ const OracleInfo = {
     getPayment,
     getP2TR
 }
+
+const OracleContract = {
+    OracleInfo
+}

@@ -91,9 +91,9 @@ Import packages or modules for build your own application
 ## Roadmap
 
 - [ ] Nakamoto version in 2025
-- [x] Oracle (WIP)
-- [ ] Musig2
-- [ ] DLC message
+- [x] Oracle 
+- [x] Musig2
+- [x] DLC message
 - [ ] Ark compatible (Basic)
   
 ## Contributors

@@ -1,10 +1,53 @@
 {
-"dlc_signature": "xxxx"
- "cotract": "xxx"
- "input":"xxx"
- "locktime":"xxx"
- "ouput":"xxx"
-  "tx":"xxxx"
- "script":"P2STR"
-},
+    "dlc_signature": "Signature for Discreet Log Contract",
+    "contract": {
+      "terms": "BTC/USDT price >= $30k",
+      "oracle": "oraclepubkey...",
+      "participants": [
+        {
+          "pubkey": "participant1pubkey...",
+          "collateral": "0.01 BTC"
+        },
+        {
+          "pubkey": "participant2pubkey...",
+          "collateral": "0.01 BTC"
+        }
+      ]
+    },
+    "input": [
+      {
+        "txid": "abc123...",
+        "vout": 0,
+        "amount": "0.01 BTC",
+        "address": "bc1qaddress...",
+        "scriptSig": "3045022100abcd...signature...",
+        "utxo": {
+          "scriptPubKey": "76a914...",
+          "value": 1000000
+        }
+      }
+    ],
+    "output": [
+      {
+        "address": "bc1qoutputaddress...",
+        "amount": "0.009 BTC"
+      },
+      {
+        "address": "bc1qchangeaddress...",
+        "amount": "0.001 BTC"
+      }
+    ],
+    "locktime": 1680105600, 
+    "tx": "serialized_hex_transaction",
+    "script": "P2STR", 
+    "utxo": [
+      {
+        "txid": "abc123...",
+        "vout": 0,
+        "amount": "0.01 BTC",
+        "scriptPubKey": "76a914...",
+        "address": "bc1qaddress..."
+      }
+    ]
+  }
   

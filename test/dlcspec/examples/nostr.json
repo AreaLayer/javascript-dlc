@@ -1,12 +1,43 @@
 {
-"dlc_nostr": "xxxx"
- "cotract": "xxx"
- "event":"xxx"
- "p":"xxx"
- "dlc":"xxx"
- "input":"xxx"
- "ouput":"xxx"
- "tx":"xxxx"
- "script":"xxx"
-},
+    "dlc_nostr": "DLC for Nostr messaging",
+    "contract": "BTC/USDT price >= $30k",
+    "event": {
+      "id": "1234abcd...",
+      "pubkey": "abc123pubkey...",
+      "created_at": 1678901234,
+      "kind": 20001,
+      "tags": [["p", "abcdefpubkey...", "Relay"]],
+      "content": "DLC Offer: BTC/USDT >= $30k by Oracle XYZ",
+      "sig": "3045022100abcd...sigdata..."
+    },
+    "p": {
+      "public_key": "abcdefpubkey...",
+      "relay": "wss://nostr.relay.url"
+    },
+    "dlc": {
+      "dlc_id": "dlc-12345",
+      "oracle": "oraclepubkey...",
+      "outcome": "BTC/USDT >= $30k"
+    },
+    "input": [
+      {
+        "txid": "abc123...",
+        "vout": 0,
+        "amount": "0.001 BTC",
+        "address": "bc1qaddress..."
+      }
+    ],
+    "output": [
+      {
+        "address": "bc1qoutputaddress...",
+        "amount": "0.0005 BTC"
+      },
+      {
+        "address": "bc1qchangeaddress...",
+        "amount": "0.00045 BTC"
+      }
+    ],
+    "tx": "serialized_hex_transaction",
+    "script": "DLC_SCRIPT_PLACEHOLDER"
+  }
   

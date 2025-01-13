@@ -1,9 +1,25 @@
 {
-"dlc_fee": "xxxx"
- "cotract": "xxx"
- "input":"xxx"
- "ouput":"xxx"
-  "tx":"xxxx"
- "script":"xxx"
-},
+    "dlc_fee": "0.0005 BTC",
+    "contract": "BTC/USDT price >= $30k",
+    "input": [
+      {
+        "txid": "abc123...",
+        "vout": 0,
+        "amount": "0.001 BTC",
+        "address": "bc1qaddress..."
+      }
+    ],
+    "output": [
+      {
+        "address": "bc1qoutputaddress...",
+        "amount": "0.0005 BTC"
+      },
+      {
+        "address": "bc1qchangeaddress...",
+        "amount": "0.00045 BTC"
+      }
+    ],
+    "tx": "serialized_hex_transaction",
+    "script": "DLC_SCRIPT_PLACEHOLDER"
+  }
   

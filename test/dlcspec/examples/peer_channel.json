@@ -1,10 +1,39 @@
 {
-"dlc_pee_channel": "xxxx"
- "cotract": "xxx"
- "input":"xxx"
- "ouput":"xxx"
- "locktime":"xxx"
- "tx":"xxxx"
- "script":"xxx"
-},
+    "dlc_peer_channel": "Peer-to-peer channel for DLC contract",
+    "contract": {
+      "terms": "BTC/USDT price >= $30k",
+      "oracle": "oraclepubkey...",
+      "participants": [
+        {
+          "pubkey": "participant1pubkey...",
+          "collateral": "0.01 BTC"
+        },
+        {
+          "pubkey": "participant2pubkey...",
+          "collateral": "0.01 BTC"
+        }
+      ]
+    },
+    "input": [
+      {
+        "txid": "abc123...",
+        "vout": 0,
+        "amount": "0.01 BTC",
+        "address": "bc1qaddress..."
+      }
+    ],
+    "output": [
+      {
+        "address": "bc1qoutputaddress...",
+        "amount": "0.009 BTC"
+      },
+      {
+        "address": "bc1qchangeaddress...",
+        "amount": "0.001 BTC"
+      }
+    ],
+    "locktime": 1680105600, 
+    "tx": "serialized_hex_transaction",
+    "script": "2-of-2 multisig script placeholder"
+  }
   

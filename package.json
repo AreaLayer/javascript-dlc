@@ -25,7 +25,7 @@
     "bitcoinjs-message": "^2.2.0",
     "commander": "^13.0.0",
     "glob": "^11.0.1",
-    "lightningdevkit-node-net": "0.0.12-5.0",
+    "lightningdevkit-node-net": "0.1.0",
     "node-fetch": "^3.0.0",
     "rimraf": "^6.0.1",
     "secp256k1": "^5.0.1",

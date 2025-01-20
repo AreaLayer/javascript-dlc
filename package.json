@@ -27,7 +27,7 @@
     "glob": "^11.0.1",
     "lightningdevkit-node-net": "0.1.0",
     "node-fetch": "^3.0.0",
-    "react": "^19.0.0",
+    "react": "^18.3.0",
     "rimraf": "^6.0.1",
     "secp256k1": "^5.0.1",
     "tiny-secp256k1": "^2.0.0",

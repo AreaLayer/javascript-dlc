@@ -27,3 +27,4 @@ const clientType = await getClientType();
 const roundLifetime = await getRoundLifetime();
 const unilateralExitDelay = await getUnilateralExitDelay();
 const minRelayFee = await getMinRelayFee();
+const maxRelayFee = await getMaxRelayFee();

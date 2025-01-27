@@ -95,6 +95,7 @@ Import packages or modules for build your own application
 - [x] Musig2
 - [x] DLC message
 - [x] Ark compatible (Basic)
+- [ ] Ark Wallet SDK
   
 ## Contributors
 

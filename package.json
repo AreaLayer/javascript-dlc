@@ -10,7 +10,7 @@
   "author": "Area Layer",
   "license": "MIT",
   "dependencies": {
-    "@arklabs/wallet-sdk": "^0.0.5",
+    "@arklabs/wallet-sdk": "^0.0.6",
     "@babel/plugin-transform-class-properties": "^7.25.9",
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.26.6",
     "@babel/plugin-transform-optional-chaining": "^7.25.9",

@@ -1,6 +1,13 @@
-import { greet as rustGreet } from '../rust_wasm/rust_wasm';
-import { greet as cppGreet } from '../cpp_wasm/cpp_wasm';
+import init, { greet as rustGreet } from '../rust_wasm/rust_wasm.js';
+import Module from '../cpp_wasm/cpp_wasm.js';
 
+async function run() {
+    await init(); // Inicializa o WASM
+    console.log(rustGreet('Rust'));
+}
 
-console.log(rustGreet('Rust'));
-console.log(cppGreet('C++'));
+run();
+
+Module().then((cppModule) => {
+    console.log(cppModule.greet('C++'));
+});

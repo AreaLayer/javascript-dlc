@@ -25,6 +25,7 @@
     "bitcoinjs-lib": "^6.1.7",
     "bitcoinjs-message": "^2.2.0",
     "commander": "^13.1.0",
+    "elliptic": "^6.6.1",
     "glob": "^11.0.1",
     "lightningdevkit-node-net": "0.1.0",
     "node-fetch": "^3.0.0",
@@ -48,6 +49,6 @@
     "signet": "https://mempool.space/signet"
   },
   "devDependencies": {
-    "react-native": "^0.77.0"
+    "react-native": "^0.77.1"
   }
 }

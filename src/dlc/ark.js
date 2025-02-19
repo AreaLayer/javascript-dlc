@@ -1,3 +1,5 @@
+import  { init, unlock, lock, balance, onboard, receive, sendOffChain, getServerUrl, getserverPubKeyHex, getWalletType, getClientType, getRoundLifetime } from 'ark-js';
+
 // Initialize the wallet
 await init(walletType, clientType, serverUrl, privateKey, password, chain);
 

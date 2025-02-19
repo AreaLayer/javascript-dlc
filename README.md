@@ -11,7 +11,7 @@
 
 **Contributions are welcome**
 
-⚠️**Beta Software and WIP**
+⚠️**Pre Sakamamoto Version**
 
 ⚠️**Use small amount**
 

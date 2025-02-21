@@ -15,7 +15,7 @@
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.26.6",
     "@babel/plugin-transform-optional-chaining": "^7.25.9",
     "@breeztech/react-native-breez-sdk": "^0.6.6",
-    "@nostr-dev-kit/ndk": "^2.11.2",
+    "@nostr-dev-kit/ndk": "^2.12.0",
     "@synonymdev/react-native-ldk": "^0.0.155",
     "@types/golang-wasm-exec": "^1.15.2",
     "bip-schnorr": "^0.6.7",

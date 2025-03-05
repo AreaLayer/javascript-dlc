@@ -96,6 +96,7 @@ Import packages or modules for build your own application
 - [x] DLC message
 - [x] Ark compatible (Basic)
 - [ ] Ark Wallet SDK
+- [ ] BTC signer
   
 ## Contributors
 

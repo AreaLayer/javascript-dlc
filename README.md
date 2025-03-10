@@ -91,9 +91,6 @@ Import packages or modules for build your own application
 ## Roadmap
 
 - [ ] Nakamoto version in 2025
-- [x] Oracle 
-- [x] Musig2
-- [x] DLC message
 - [x] Ark compatible (Basic)
 - [ ] Ark Wallet SDK
 - [ ] BTC signer

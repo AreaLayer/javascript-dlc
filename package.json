@@ -14,6 +14,7 @@
     "@babel/plugin-transform-class-properties": "^7.25.9",
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.26.6",
     "@babel/plugin-transform-optional-chaining": "^7.25.9",
+    "@babel/runtime": "^7.26.10",
     "@breeztech/react-native-breez-sdk": "^0.6.6",
     "@nostr-dev-kit/ndk": "^2.12.2",
     "@synonymdev/react-native-ldk": "^0.0.158",

@@ -17,7 +17,7 @@
     "@babel/plugin-transform-optional-chaining": "^7.25.9",
     "@babel/runtime": "^7.27.0",
     "@breeztech/react-native-breez-sdk": "^0.6.6",
-    "@nostr-dev-kit/ndk": "^2.14.0",
+    "@nostr-dev-kit/ndk": "^2.14.1",
     "@synonymdev/react-native-ldk": "^0.0.158",
     "@types/golang-wasm-exec": "^1.15.2",
     "bip-schnorr": "^0.6.7",

@@ -35,4 +35,6 @@ currently being supported with security updates.
 | v1.0.32-beta   | :white_check_mark: |
 | v1.0.33-beta   | :white_check_mark: |
 | v1.0.34-beta   | :white_check_mark: |
+| v1.0.35-beta   | :white_check_mark: |
+
 

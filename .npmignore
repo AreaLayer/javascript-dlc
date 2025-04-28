@@ -2,3 +2,4 @@ Cargo.lock
 Cargo.toml
 .env
 greet.cpp
+lib.rs

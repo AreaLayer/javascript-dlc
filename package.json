@@ -1,6 +1,6 @@
 {
   "name": "javascript-dlc",
-  "version": "1.0.34-beta",
+  "version": "1.0.35-beta",
   "description": "Javascript DLC library",
   "main": "index.js",
   "scripts": {

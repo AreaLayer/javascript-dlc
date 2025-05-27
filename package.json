@@ -11,11 +11,11 @@
   "license": "MIT",
   "dependencies": {
     "@arklabs/wallet-sdk": "^0.0.15",
-    "@babel/helpers": "^7.27.1",
+    "@babel/helpers": "^7.27.3",
     "@babel/plugin-transform-class-properties": "^7.27.1",
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.27.1",
     "@babel/plugin-transform-optional-chaining": "^7.27.1",
-    "@babel/runtime": "^7.27.1",
+    "@babel/runtime": "^7.27.3",
     "@breeztech/react-native-breez-sdk": "^0.8.0",
     "@nostr-dev-kit/ndk": "^2.14.21",
     "@synonymdev/react-native-ldk": "^0.0.159",

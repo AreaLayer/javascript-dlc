@@ -52,6 +52,6 @@
     "signet": "https://mempool.space/signet"
   },
   "devDependencies": {
-    "react-native": "^0.79.2"
+    "react-native": "^0.79.3"
   }
 }

@@ -1,32 +1,20 @@
-import  { init, unlock, lock, balance, onboard, receive, sendOffChain, getServerUrl, getserverPubKeyHex, getWalletType, getClientType, getRoundLifetime } from 'ark-js';
+// service-worker.ts
+import { Worker } from '@arkade-os/sdk'
 
-// Initialize the wallet
-await init(walletType, clientType, serverUrl, privateKey, password, chain);
+// Worker is a class handling the communication between the main thread and the service worker
+new Worker().start()
 
-// Unlock the wallet
-await unlock(password);
+// specify the path to the service worker file
+// this will automatically register the service worker
+const wallet = await ServiceWorkerWallet.create('/service-worker.js')
 
-// Lock the wallet
-await lock(password);
-
-// Get balance
-const balance = await balance(false);
-
-// Onboard funds
-const onboardTxID = await onboard(amount);
-
-// Get receive addresses
-const addresses = await receive();
-
-// Send off-chain
-const txID = await sendOffChain(false, [{ To: address, Amount: amount }]);
-
-// Get configuration
-const serverUrl = await getServerUrl();
-const serverPubKeyHex = await getserverPubKeyHex();
-const walletType = await getWalletType();
-const clientType = await getClientType();
-const roundLifetime = await getRoundLifetime();
-const unilateralExitDelay = await getUnilateralExitDelay();
-const minRelayFee = await getMinRelayFee();
-const maxRelayFee = await getMaxRelayFee();
+// initialize the wallet
+await wallet.init({
+  network: 'mutinynet',  // 'bitcoin', 'testnet', 'regtest', 'signet' or 'mutinynet'
+  identity: identity,
+  // Esplora API, can be left empty mempool.space API will be used
+  esploraUrl: 'https://mutinynet.com/api', 
+  // OPTIONAL Ark Server connection information
+  arkServerUrl: 'https://mutinynet.arkade.sh',
+  arkServerPublicKey: 'fa73c6e4876ffb2dfc961d763cca9abc73d4b88efcb8f5e7ff92dc55e9aa553d'
+})

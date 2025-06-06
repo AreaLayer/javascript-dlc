@@ -91,9 +91,6 @@ Import packages or modules for build your own application
 ## Roadmap
 
 - [ ] Nakamoto version in 2025
-- [x] Ark compatible (Basic)
-- [x] Ark Wallet SDK (WIP)
-- [ ] BTC signer
   
 ## Contributors
 

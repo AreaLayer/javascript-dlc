@@ -1,6 +1,6 @@
 [package]
 name = "javascript-dlc"
-version = "0.1.10"
+version = "0.1.11"
 authors = ["AreaLayer <arealayer.net>"]
 edition = "2024"
 

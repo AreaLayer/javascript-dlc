@@ -87,10 +87,6 @@ Import packages or modules for build your own application
 ## Contribution
 
 [Checkout here](https://github.com/AreaLayer/javascript-dlc/blob/main/CONTRIBUTING.md)
-
-## Roadmap
-
-- [ ] Nakamoto version in 2025
   
 ## Contributors
 

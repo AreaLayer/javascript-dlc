@@ -11,10 +11,6 @@
 
 **Contributions are welcome**
 
-⚠️**Pre Sakamamoto Version**
-
-⚠️**Use small amount**
-
 ### Standard Compliance and library
 
 ### Bitcoin 

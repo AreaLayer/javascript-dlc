@@ -11,11 +11,11 @@
   "license": "MIT",
   "dependencies": {
     "@arkade-os/sdk": "^0.2.3",
-    "@babel/helpers": "^7.28.3",
+    "@babel/helpers": "^7.28.4",
     "@babel/plugin-transform-class-properties": "^7.27.1",
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.27.1",
     "@babel/plugin-transform-optional-chaining": "^7.27.1",
-    "@babel/runtime": "^7.28.3",
+    "@babel/runtime": "^7.28.4",
     "@breeztech/react-native-breez-sdk": "^0.8.0",
     "@buildonspark/spark-sdk": "^0.2.13",
     "@nostr-dev-kit/ndk": "^2.14.33",

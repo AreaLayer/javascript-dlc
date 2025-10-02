@@ -4,7 +4,7 @@
 [![NPM version](https://img.shields.io/npm/v/javascript-dlc.svg)](https://npmjs.org/package/javascript-dlc)
 [![Bitcoin-only](https://img.shields.io/badge/bitcoin-only-FF9900?logo=bitcoin)](https://twentyone.world)
 [![LN](https://img.shields.io/badge/lightning-792EE5?logo=lightning)](https://mempool.space/lightning)
-[![Nostr](https://img.shields.io/badge/nostr-only-FF9900?)]((https://user-images.githubusercontent.com/99301796/223592277-34058d0e-af30-411d-8dfe-87c42dacdcf2.png))
+[![Nostr](https://img.shields.io/badge/nostr-only-FF9900?)](https://user-images.githubusercontent.com/99301796/223592277-34058d0e-af30-411d-8dfe-87c42dacdcf2.png)
 
 
 >A Javascript library for working with [Discreet Log Contracts](https://adiabat.github.io/dlc.pdf).

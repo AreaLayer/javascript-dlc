@@ -37,7 +37,7 @@
 - Lightning Channel (non-taproot)
 - Miniscript
 - Sign
-- Schorr
+- Schnorr
 - Sign
 - Oracle
 - Transaction

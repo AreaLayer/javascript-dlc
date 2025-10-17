@@ -24,8 +24,10 @@
 - Greenlight
 - Eclair
 - Core Lightning
-- Breez SDK
 - BOLT11/BOLT12
+- Spark SDK (soon)
+- Liquid (soon)
+- WDK (soon)
 
 ### DLCs with core functions:
 

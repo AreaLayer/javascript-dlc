@@ -10,7 +10,7 @@
   "author": "Area Layer",
   "license": "MIT",
   "dependencies": {
-    "@arkade-os/sdk": "^0.2.3",
+    "@arkade-os/sdk": "^0.3.0",
     "@babel/helpers": "^7.28.4",
     "@babel/plugin-transform-class-properties": "^7.27.1",
     "@babel/plugin-transform-nullish-coalescing-operator": "^7.27.1",

@@ -25,7 +25,7 @@
 - Eclair
 - Core Lightning
 - BOLT11/BOLT12
-- Spark SDK (soon)
+- Spark SDK by Breez (soon)
 - Liquid (soon)
 - WDK (soon)
 
